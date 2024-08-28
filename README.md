@@ -1,11 +1,12 @@
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=afiatamanna06&&show_icons=true&theme=algolia&count_private=true" alt="Jason's Github Stats"/>](https://github.com/afiatamanna06)
 
 # Hello, I am Emtiaz Ahmed! Nice to meet you
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/emtiaz-ahmed-2892871a2/)
+[![Instagram Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=instagram&logoColor=f5f7fe)]
+[![Website Connect](https://img.shields.io/badge/%20-Website-black?color=222244&labelColor=000000&logo=hyperlink&logoColor=f5f7fe)]
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/afiatamanna06/)
-[![Instagram Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=instagram&logoColor=f5f7fe)](https://www.instagram.com/afia_cat_dev/)
-[![Website Connect](https://img.shields.io/badge/%20-Website-black?color=222244&labelColor=000000&logo=hyperlink&logoColor=f5f7fe)](https://afiaanjum.vercel.app/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:afiatamanna06@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:youremail@example.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+
 
 > Experimenting with Frontend UIs and frameworks, Js enthusiast <br/>
 I love to develop web applications using React.js, JavaScript, and DJANGO,DJANGO_DRF

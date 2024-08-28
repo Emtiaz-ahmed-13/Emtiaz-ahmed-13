@@ -34,13 +34,6 @@ I love to develop web applications using React.js, JavaScript, and DJANGO,DJANGO
 </p>
 
 ### Tools
-<p>
-  <img src="https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
-</p>
 
 ### My Stacks
 

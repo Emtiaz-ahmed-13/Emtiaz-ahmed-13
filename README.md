@@ -18,12 +18,12 @@ I love to develop web applications using React.js, JavaScript, and DJANGO, DJANG
 <p>
   <img src="https://img.shields.io/badge/-Next.JS-0A1A2F?style=flat&logo=next.js"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Astro-17191e?style=flat&logo=astro"/>
+  
   <img src="https://img.shields.io/badge/JavaScript-e6e600?style=flat-square&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Chakra%20UI-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white"/>
+ 
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-005580?style=flat-square&logo=Python&logoColor=white"/>

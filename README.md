@@ -1,6 +1,4 @@
-
-
-# Hello, I am Emtiaz Ahmed! Nice to meet you
+# Hello, I'am Emtiaz Ahmed...! 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/emtiaz-ahmed-2892871a2/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:emtiaz260@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
@@ -9,25 +7,25 @@ I love to develop web applications using React.js, JavaScript, and DJANGO, DJANG
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> React, JavaScript, Frontend web 
+- 🔭 <b>Currently working on:</b> React, JavaScript, Frontend web, django,django rest framework 
 - 🌱 <b>Getting better at:</b> TypeScript
-- 🤔 <b>Exploring:</b> Clean Code, Reusability
+- 🤔 <b>Exploring:</b> Clean Code
 - ⚗️ <b>Experimenting on:</b> Improving the efficiency of my code
 
 ### Languages & Libraries/Frameworks
 <p>
   <img src="https://img.shields.io/badge/-Next.JS-0A1A2F?style=flat&logo=next.js"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  
   <img src="https://img.shields.io/badge/JavaScript-e6e600?style=flat-square&logo=JavaScript&logoColor=black"/>
-  
   <img src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
- 
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-005580?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=flat-square&logo=django&logoColor=white"/>
 </p>
+
 
 ### Tools
 <p>

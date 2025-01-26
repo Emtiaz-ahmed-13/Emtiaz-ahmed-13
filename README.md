@@ -1,51 +1,46 @@
-# Hello, I'am Emtiaz Ahmed...! 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/emtiaz-ahmed-2892871a2/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:emtiaz260@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+# Hi there, I'm Emtiaz Ahmed 👋
 
-> Experimenting with Frontend UIs and frameworks, Js enthusiast <br/>
-I love to develop web applications using React.js, JavaScript, and DJANGO, DJANGO_DRF.
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, data science, and open-source contributions. I love building innovative solutions and learning new technologies.
 
-### Things you should know
+## 🛠️ Technologies & Tools
 
-- 🔭 <b>Currently working on:</b> React, JavaScript, Frontend web, django,django rest framework 
-- 🌱 <b>Getting better at:</b> TypeScript
-- 🤔 <b>Exploring:</b> Clean Code
-- ⚗️ <b>Experimenting on:</b> Improving the efficiency of my code
+- **Languages:** Python, JavaScript, Java, C++
+- **Frameworks & Libraries:** React, Node.js, Django, Flask
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Tools & Platforms:** Docker, Git, GitHub, AWS, Heroku
 
-### Languages & Libraries/Frameworks
-<p>
-  <img src="https://img.shields.io/badge/-Next.JS-0A1A2F?style=flat&logo=next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-e6e600?style=flat-square&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-005580?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=flat-square&logo=django&logoColor=white"/>
-</p>
+## 🌱 Currently Learning
 
+- Advanced React and Redux
+- Machine Learning with Python
+- Cloud Computing with AWS
 
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
-</p>
+## 📈 GitHub Stats
 
-### My Stacks
+![Emtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emtiaz-ahmed-13&show_icons=true&theme=radical)
 
-```json
-{
-  "languages": ["JavaScript", "Python", "TypeScript"],
-  "frameworks/libraries": {
-    "backend": ["Django"],
-    "frontend": ["React", "CSS", "Next.js", "Chakra UI"]
-  },
-  "database": ["MySQL", "Oracle"],
-  "misc": ["Firebase"],
-  "tools": ["VS Code", "Android Studio"]
-}
+## 📫 How to Reach Me
+
+- **Email:** emtiaz.ahmed@example.com
+- **LinkedIn:** [Emtiaz Ahmed](https://www.linkedin.com/in/emtiaz-ahmed/)
+- **Twitter:** [@emtiaz_ahmed](https://twitter.com/emtiaz_ahmed)
+
+## 🤝 Let's Collaborate
+
+I'm always open to new opportunities and collaborations. Feel free to reach out if you have any interesting projects or ideas.
+
+## 🌟 Projects
+
+Here are a few projects I've worked on:
+
+- [Project 1](https://github.com/Emtiaz-ahmed-13/project1): Brief description of the project.
+- [Project 2](https://github.com/Emtiaz-ahmed-13/project2): Brief description of the project.
+- [Project 3](https://github.com/Emtiaz-ahmed-13/project3): Brief description of the project.
+
+## 💬 Languages
+
+- English
+- Bengali
+- Hindi
+
+Thank you for visiting my profile! Have a great day! 😊

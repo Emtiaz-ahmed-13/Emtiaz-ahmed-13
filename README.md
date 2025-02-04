@@ -2,9 +2,9 @@
 <h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/dwVv1z71/476168395-3627527667539191-8150313239316259420-n.jpg">
 
-- 🌱 I’m currently learning **NextJs, PostgreSQL, C++, DSA**
-- 💬 Ask me about **JavaScript, React, NextJs, Express.js**
-- 📫 How to reach me: **salmanabdullah0304@gmail.com**
+- 🌱 I’m currently learning **NextJs, C++, DSA**
+- 💬 Ask me about **JavaScript, React, NextJs, Express.js aslo python,django**
+- 📫 How to reach me: **emtiaz2060@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +18,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emtiaz-ahmed" height="30" width="40" />
   </a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 

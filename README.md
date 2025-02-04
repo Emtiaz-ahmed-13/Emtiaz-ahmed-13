@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/dwVv1z71/476168395-3627527667539191-8150313239316259420-n.jpg">
 
 - 🌱 I’m currently learning **NextJs, C++, DSA**
-- 💬 Ask me about **JavaScript, React, NextJs, Express.js aslo python,django**
+- 💬 Ask me about **JavaScript, React, NextJs, Express.js**
 - 📫 How to reach me: **emtiaz2060@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

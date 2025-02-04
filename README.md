@@ -1,46 +1,26 @@
-# Hi there, I'm Emtiaz Ahmed 👋
+<h2 align="center">Hello there! My name is EMTIAZ AHMED 👋🤓</h2>
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, data science, and open-source contributions. I love building innovative solutions and learning new technologies.
+### Top Languages
 
-## 🛠️ Technologies & Tools
+- **JavaScript**
+- **Python**
+- **TypeScript**
+- **Django**
 
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks & Libraries:** React, Node.js, Django, Flask
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools & Platforms:** Docker, Git, GitHub, AWS, Heroku
+### My Portfolio
 
-## 🌱 Currently Learning
+🔗 [Visit my Portfolio](https://emtiaz-s-portoflio.vercel.app/)
 
-- Advanced React and Redux
-- Machine Learning with Python
-- Cloud Computing with AWS
+<details>
+  <summary>CLICK to See the PLATFORMS I Write For</summary>
+  <p>
 
-## 📈 GitHub Stats
+## 📫 You can find me @
 
-![Emtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emtiaz-ahmed-13&show_icons=true&theme=radical)
+- [LinkedIn](https://www.linkedin.com/in/emtiaz-ahmed-2892871a2/) 💼
+- [Instagram](https://www.instagram.com/its_emtiazzz_11/) 😎
+- [Facebook](https://www.facebook.com/profile.php?id=100074766946261) 😏
 
-## 📫 How to Reach Me
-
-- **Email:** emtiaz.ahmed@example.com
-- **LinkedIn:** [Emtiaz Ahmed](https://www.linkedin.com/in/emtiaz-ahmed/)
-- **Twitter:** [@emtiaz_ahmed](https://twitter.com/emtiaz_ahmed)
-
-## 🤝 Let's Collaborate
-
-I'm always open to new opportunities and collaborations. Feel free to reach out if you have any interesting projects or ideas.
-
-## 🌟 Projects
-
-Here are a few projects I've worked on:
-
-- [Project 1](https://github.com/Emtiaz-ahmed-13/project1): Brief description of the project.
-- [Project 2](https://github.com/Emtiaz-ahmed-13/project2): Brief description of the project.
-- [Project 3](https://github.com/Emtiaz-ahmed-13/project3): Brief description of the project.
-
-## 💬 Languages
-
-- English
-- Bengali
-- Hindi
-
-Thank you for visiting my profile! Have a great day! 😊
+<!-- YOU-CAN-FIND-ME:END -->
+  </p>
+</details>

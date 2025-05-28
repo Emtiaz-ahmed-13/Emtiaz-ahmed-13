@@ -1,29 +1,27 @@
-# <div align="center">✨ EMTIAZ AHMED ✨</div>
+# EMTIAZ AHMED 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Critical+Problem+Solver;4%2B+years+of+coding+expertise;Always+learning+%26+evolving&font=Fira%20Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
-</div>
+<img src="images/me.jpg" align="right" />
 
-<div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=emtiaz-ahmed-13&data=followers,repositories,stars,commits&theme=dark" alt="GitHub Profile Stats" />
-</div>
+My name is EMTIAZ AHMED, and I go by `EMTIAZ AHMED` online in most places. Over the past two decades, I have built and, more importantly, helped others build computer programs.
 
-<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/emtiaz-ahmed-13-hassa%C3%B1-b87939248"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:emtiaz2060@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="discordapp.com/users/914900809144221766"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-</p>
+--
 
----
+**Social Media:**
+[![GitHub](icons/github.png)](https://github.com/Emtiaz-ahmed-13)
+[![Twitter](icons/twitter.png)](https://x.com/emtiaza62570877)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/emtiaz-ahmed-2892871a2/in)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/its_emtiazzz_11/)
 
-<div align="center">
-  
-  ```javascript
-  const emtiaz = {
-    currentProject: "nextmart",
-    lookingFor: "Exciting collaborations",
-    passions: ["Full-Stack Development", "Problem Solving"],
-    motto: "Don't stop until you are proud."
-  };
+**Currently working with:**
+
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
+<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>

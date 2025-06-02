@@ -189,11 +189,9 @@ pie title Weekly Development Breakdown
 
 ```mermaid
 graph LR
-    A[Frontend] --> B[90%]
-    C[Backend] --> D[85%]
-    E[DevOps] --> F[75%]
-    G[Database] --> H[80%]
-    I[Mobile] --> J[70%]
+    A[Frontend] --> B[80%]
+    B[Backend] --> D[95%]
+    C[Database] --> H[80%]
 ```
 
 ## 🤝 Connect With Me

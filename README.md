@@ -169,9 +169,6 @@ graph LR
 
 - 🔧 Building a new web application with modern tech stack
 - 📚 Learning new technologies and frameworks
-- 🤝 Contributing to open-source projects
-- 🎨 Designing new UI/UX components
-- 📱 Developing mobile applications
 - 📝 Writing technical blog posts
 - 🎓 Completing advanced certifications
 
@@ -181,7 +178,6 @@ graph LR
 pie title Weekly Development Breakdown
     "Coding" : 40
     "Learning" : 25
-    "Mentoring" : 20
     "Documentation" : 15
 ```
 

@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm EMTIAZ AHMED, a passionate developer with two decades of experience in building computer programs and mentoring others in their development journey. I love creating innovative solutions and sharing knowledge with the community.
+I'm EMTIAZ AHMED, a passionate developer  in building computer programs and mentoring others in their development journey. I love creating innovative solutions and sharing knowledge with the community.
 
 ### 🎯 What I Do
 
@@ -28,17 +28,15 @@ I'm EMTIAZ AHMED, a passionate developer with two decades of experience in build
 graph LR
     A[Started Coding] --> B[Web Development]
     B --> C[Full Stack]
-    C --> D[Mentoring]
-    D --> E[Open Source]
-    E --> F[Current Projects]
+    c --> E[Open Source]
+    D--> F[Current Projects]
 ```
 
-### 🎯 Goals for 2024
+### 🎯 Goals for 2025
 
 - [ ] Master Advanced React Patterns
 - [ ] Contribute to 5 Open Source Projects
 - [ ] Write 10 Technical Blog Posts
-- [ ] Mentor 20 Developers
 - [ ] Build 3 Full-Stack Applications
 
 ## 🛠️ Tech Stack
@@ -63,7 +61,6 @@ graph LR
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=white" alt="Drizzle" />
 </div>
 
 ### 🛠️ Tools & Others
@@ -151,26 +148,11 @@ graph LR
       Solution: Integrated Clerk for secure and reliable auth
   - [GitHub Repository](https://github.com/Emtiaz-ahmed-13/filedock)
 
-- 🎮 [Project 2] - An interactive game developed using Python
+- 🎮 [Project 3] - A Online shoping platform
 
-  - Features: Multiplayer support, Custom levels, Score tracking
-  - Tech: Python, Pygame, SQLite
-  - [Live Demo](https://project2-demo.com) | [GitHub](https://github.com/username/project2)
-
-- 💡 [Project 3] - A mobile app for task management
-  - Features: Offline support, Push notifications, Data sync
-  - Tech: React Native, Firebase, Redux
-  - [App Store](https://appstore.com/app) | [GitHub](https://github.com/username/project3)
-
-### 🏆 Achievements
-
-- 🥇 First place in [Competition Name]
-- 📚 Published [Number] technical articles
-- 👥 Mentored [Number] developers
-- 🌟 [Number] GitHub stars across repositories
-- 🏅 [Number] successful project deployments
-- 🎓 [Number] certifications completed
-- 🏆 [Number] hackathon wins
+  - Features:create shop, sell your products
+  - Tech: nextjs,mongodb,react,redux
+  - [Live Demo](https://mart-client-rho.vercel.app/) | [GitHub](https://github.com/Emtiaz-ahmed-13/mart_client)
 
 ## 📊 GitHub Stats
 
@@ -202,18 +184,6 @@ pie title Weekly Development Breakdown
     "Mentoring" : 20
     "Documentation" : 15
 ```
-
-## 📚 Latest Blog Posts
-
-- [Blog Post 1] - Topic and brief description
-  - Published: [Date]
-  - Read time: [X] minutes
-- [Blog Post 2] - Topic and brief description
-  - Published: [Date]
-  - Read time: [X] minutes
-- [Blog Post 3] - Topic and brief description
-  - Published: [Date]
-  - Read time: [X] minutes
 
 ## 🎯 Skills Progress
 

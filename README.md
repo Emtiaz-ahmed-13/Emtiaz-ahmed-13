@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/user/780666374057099264) [![Facebook](https://www.facebook.com/errorprogrammer11)](https://facebook.com/nazmulhasannasim333) [![Instagram](https://www.instagram.com/its_emtiaz_11/)](https://instagram.com/nazmulhasannasim333) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emtiaz-ahmed-2892871a2/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/emtiaza62570877)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/user/780666374057099264) [![Facebook](https://www.facebook.com/errorprogrammer11)](https://www.instagram.com/its_emtiaz_11/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emtiaz-ahmed-2892871a2/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/emtiaza62570877)
 
 # 💻 Tech Stack:
 

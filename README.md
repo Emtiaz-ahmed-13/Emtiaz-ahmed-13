@@ -26,13 +26,20 @@
 
 # 📊 Competitive Programming Stats:
 
-<span>
-<a href="https://codeforces.com/profile/Prince_Emtiaz">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Prince_Emtiaz&theme=radical&force_username=true" alt="emtiaz's Codeforces Stats"/>
-</a>
-<a href="https://leetcode.com/u/emtiaz/">
-<img height="316" src="https://leetcard.jacoblin.cool/emtiaz?theme=radical&font=Fira%20Code&ext=contest" alt="emtiaz_ahmed Leetcode Stats"/>
-</a>
-</span>
+## 📊 Competitive Programming Stats
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Prince_Emtiaz">
+    <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Prince_Emtiaz&theme=radical&force_username=true" alt="Emtiaz's Codeforces Stats"/>
+  </a>
+  <a href="https://leetcode.com/u/emtiaz/">
+    <img height="316" src="https://leetcard.jacoblin.cool/emtiaz?theme=radical&font=Fira%20Code&ext=contest" alt="Emtiaz's Leetcode Stats"/>
+  </a>
+</p>
+
+### 🔥 Streaks (Manual Update or Custom Scripts)
+
+- 🔹 LeetCode Daily Streak: `10 days` _(Update this manually or via GitHub Actions)_
+- 🔹 Codeforces Contest Streak: `3 contests in a row` _(based on participation)_
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

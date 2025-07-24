@@ -1,5 +1,5 @@
-import requests # type: ignore
-from datetime import datetime
+import requests
+from datetime import datetime, timedelta
 
 LEETCODE_USERNAME = "emtiaz"
 CODEFORCES_USERNAME = "Prince_Emtiaz"
@@ -14,31 +14,35 @@ def get_leetcode_streak(username):
     except:
         return "- 🔹 LeetCode Daily Streak: `Error fetching streak`"
 
-def get_codeforces_contest_streak(username):
+def get_codeforces_solve_streak(username):
     try:
-        url = f"https://codeforces.com/api/user.rating?handle={username}"
+        url = f"https://codeforces.com/api/user.status?handle={username}"
         response = requests.get(url)
         data = response.json()
 
         if data["status"] != "OK":
-            return "- 🔹 Codeforces Contest Streak: `Error fetching data`"
+            return "- 🔹 Codeforces Solve Streak: `Error fetching submissions`"
 
-        contests = data["result"]
-        if not contests:
-            return "- 🔹 Codeforces Contest Streak: `0 contests`"
+        submissions = data["result"]
 
-        streak = 1
-        for i in range(len(contests) - 1, 0, -1):
-            prev = datetime.utcfromtimestamp(contests[i - 1]["ratingUpdateTimeSeconds"])
-            curr = datetime.utcfromtimestamp(contests[i]["ratingUpdateTimeSeconds"])
-            if (curr - prev).days <= 10:
-                streak += 1
-            else:
-                break
+        # Track days where at least one submission was made
+        solved_days = set()
+        for submission in submissions:
+            timestamp = submission["creationTimeSeconds"]
+            day = datetime.utcfromtimestamp(timestamp).date()
+            solved_days.add(day)
 
-        return f"- 🔹 Codeforces Contest Streak: `{streak} contests in a row`"
+        # Build streak by checking how many consecutive days (including today) have submissions
+        streak = 0
+        today = datetime.utcnow().date()
+
+        while today in solved_days:
+            streak += 1
+            today -= timedelta(days=1)
+
+        return f"- 🔹 Codeforces Solve Streak: `{streak} days`"
     except:
-        return "- 🔹 Codeforces Contest Streak: `Error fetching streak`"
+        return "- 🔹 Codeforces Solve Streak: `Error calculating streak`"
 
 def update_readme(streak_lines):
     with open("README.md", "r", encoding="utf-8") as f:
@@ -61,5 +65,5 @@ def update_readme(streak_lines):
 
 if __name__ == "__main__":
     leetcode_line = get_leetcode_streak(LEETCODE_USERNAME)
-    codeforces_line = get_codeforces_contest_streak(CODEFORCES_USERNAME)
+    codeforces_line = get_codeforces_solve_streak(CODEFORCES_USERNAME)
     update_readme([leetcode_line + "\n", codeforces_line + "\n"])

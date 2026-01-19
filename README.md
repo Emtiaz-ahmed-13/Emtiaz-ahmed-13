@@ -88,10 +88,13 @@ const emtiaz = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
+
+### 🔥 Current Streak: **20 Days** 
+**Dec 31, 2025 → Jan 19, 2026** 🚀
+
 ![](https://github-readme-stats.vercel.app/api?username=Emtiaz-ahmed-13&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Emtiaz-ahmed-13&theme=tokyonight&hide_border=false)
+![](https://streak-stats.demolab.com?user=Emtiaz-ahmed-13&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emtiaz-ahmed-13&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

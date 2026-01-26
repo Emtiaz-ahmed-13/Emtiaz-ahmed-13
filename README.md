@@ -13,8 +13,6 @@
 [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emtiaz2060@gmail.com)
 [![](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emtiaz-ahmed-13)
 
-
-
 ---
 
 ### 👨‍💻 About Me
@@ -45,36 +43,25 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-ahmed-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emtiaz-ahmed-13&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-ahmed-13&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emtiaz-ahmed-13&layout=compact&theme=transparent&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" width="80" /><br>
-      <b>LeetCode Streak</b><br>
-      <code><!--LEETCODE_START-->193<!--LEETCODE_END--> Days</code>
-    </td>
-    <td align="center" width="200">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" width="80" /><br>
-      <b>Codeforces Streak</b><br>
-      <code><!--CODEFORCES_START-->0<!--CODEFORCES_END--> Days</code>
-    </td>
-    <td align="center" width="200">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80" /><br>
-      <b>GitHub Streak</b><br>
-      <code><!--GITHUB_START-->27<!--GITHUB_END--> Days</code><br>
-      <small><!--GITHUB_DATE_START-->Dec 31, 2025 → Jan 26, 2026<!--GITHUB_DATE_END--></small>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Streaks -->
+  <img src="https://img.shields.io/badge/LeetCode-193_Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Streak" />
+  <img src="https://img.shields.io/badge/Codeforces-0_Days-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Streak" />
+  <img src="https://img.shields.io/badge/GitHub-27_Days-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak" />
+</p>
+
+<!-- GitHub Streak Date Range (Hidden for aesthetics, or displayed simply below) -->
+<p align="center">
+  <small>GitHub Streak: <!--GITHUB_DATE_START-->Dec 31, 2025 → Jan 26, 2026<!--GITHUB_DATE_END--></small>
+</p>
 
 ---
-
-
 
 ### 🚀 Featured Projects
 

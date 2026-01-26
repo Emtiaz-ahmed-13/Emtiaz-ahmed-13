@@ -35,11 +35,11 @@ def update_readme_github_streak(days, start_date, end_date):
     with open(README_FILE, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # Update Days
-    # Looks for <!--GITHUB_START-->20<!--GITHUB_END-->
+    # Update Badge Count
+    # Looks for badge/GitHub-27_Days
     content = re.sub(
-        r"<!--GITHUB_START-->.*?<!--GITHUB_END-->",
-        f"<!--GITHUB_START-->{days}<!--GITHUB_END-->",
+        r"badge/GitHub-\d+_Days",
+        f"badge/GitHub-{days}_Days",
         content
     )
 
@@ -57,9 +57,6 @@ def update_readme_github_streak(days, start_date, end_date):
     print(f"✅ GitHub streak updated: {days} days")
 
 
-# =========================
-# LEETCODE STREAK
-# =========================
 # =========================
 # LEETCODE STREAK
 # =========================
@@ -143,17 +140,17 @@ def update_readme_cp_streaks(leetcode, codeforces):
     with open(README_FILE, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # LeetCode
+    # LeetCode Badge
     content = re.sub(
-        r"<!--LEETCODE_START-->.*?<!--LEETCODE_END-->",
-        f"<!--LEETCODE_START-->{leetcode}<!--LEETCODE_END-->",
+        r"badge/LeetCode-\d+_Days",
+        f"badge/LeetCode-{leetcode}_Days",
         content
     )
 
-    # Codeforces
+    # Codeforces Badge
     content = re.sub(
-        r"<!--CODEFORCES_START-->.*?<!--CODEFORCES_END-->",
-        f"<!--CODEFORCES_START-->{codeforces}<!--CODEFORCES_END-->",
+        r"badge/Codeforces-\d+_Days",
+        f"badge/Codeforces-{codeforces}_Days",
         content
     )
 

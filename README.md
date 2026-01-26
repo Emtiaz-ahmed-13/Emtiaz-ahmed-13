@@ -62,10 +62,24 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🐾 PurrfectHub** | Full-stack cat adoption platform with AI-powered analysis. | Next.js, Prisma, Gemini AI |
-| **📊 Profile Analytics** | Automated GitHub stats & streak tracking (this repo!) | Python, GitHub Actions |
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <a href="https://github.com/Emtiaz-ahmed-13/PurrfectHub">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emtiaz-ahmed-13&repo=PurrfectHub&theme=transparent&hide_border=true" height="150" alt="PurrfectHub" />
+    </a>
+    <a href="https://github.com/Emtiaz-ahmed-13/lifecare_portal">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emtiaz-ahmed-13&repo=lifecare_portal&theme=transparent&hide_border=true" height="150" alt="Lifecare Portal" />
+    </a>
+  </div>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+    <a href="https://github.com/Emtiaz-ahmed-13/ordereeats">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emtiaz-ahmed-13&repo=ordereeats&theme=transparent&hide_border=true" height="150" alt="OrderEats" />
+    </a>
+     <a href="https://github.com/Emtiaz-ahmed-13/Emtiaz-ahmed-13">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emtiaz-ahmed-13&repo=Emtiaz-ahmed-13&theme=transparent&hide_border=true" height="150" alt="Profile Analytics" />
+    </a>
+  </div>
+</div>
 
 ---
 

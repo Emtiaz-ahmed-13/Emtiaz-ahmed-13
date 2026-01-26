@@ -13,6 +13,24 @@
 [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emtiaz2060@gmail.com)
 [![](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emtiaz-ahmed-13)
 
+<br><br>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Emtiaz-ahmed-13&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 👨‍💻 About Me
+
+<div align="left">
+  
+- 🔭 I’m currently working on **Full Stack Web Development**
+- 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Next.js, Node.js, and Competitive Programming**
+- ⚡ Fun fact: **I can center a div in 3 different ways!**
+
+</div>
+
 ---
 
 ### 🛠️ Tech Stack
@@ -55,6 +73,12 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 🐍 Contribution Activity
+
+<img src="https://raw.githubusercontent.com/Emtiaz-ahmed-13/Emtiaz-ahmed-13/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 ---
 

@@ -60,12 +60,51 @@ def update_readme_github_streak(days, start_date, end_date):
 # =========================
 # LEETCODE STREAK
 # =========================
+# =========================
+# LEETCODE STREAK
+# =========================
 def get_leetcode_streak(username):
     try:
         url = f"https://leetcode-stats-api.herokuapp.com/{username}"
         data = requests.get(url, timeout=10).json()
-        return data.get("streak", "N/A")
-    except Exception:
+
+        # If API provides streak directly
+        if "streak" in data:
+            return data["streak"]
+        
+        # Fallback: Calculate manually from submissionCalendar
+        calendar = data.get("submissionCalendar", {})
+        if not calendar:
+            return 0
+            
+        # Parse timestamps to dates
+        solved_days = set()
+        for ts_str in calendar.keys():
+            # timestamps are in seconds
+            ts = int(ts_str)
+            date = datetime.utcfromtimestamp(ts).date()
+            solved_days.add(date)
+            
+        today = datetime.utcnow().date()
+        yesterday = today - timedelta(days=1)
+        
+        # Determine start date for streak check
+        if today in solved_days:
+            current = today
+        elif yesterday in solved_days:
+            current = yesterday
+        else:
+            return 0
+            
+        streak = 0
+        while current in solved_days:
+            streak += 1
+            current -= timedelta(days=1)
+            
+        return streak
+
+    except Exception as e:
+        print(f"⚠️ LeetCode Error: {e}")
         return "N/A"
 
 

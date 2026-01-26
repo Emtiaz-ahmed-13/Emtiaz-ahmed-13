@@ -40,7 +40,7 @@
     <td align="center" width="200">
       <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" width="80" /><br>
       <b>LeetCode Streak</b><br>
-      <code><!--LEETCODE_START-->N/A<!--LEETCODE_END--> Days</code>
+      <code><!--LEETCODE_START-->193<!--LEETCODE_END--> Days</code>
     </td>
     <td align="center" width="200">
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" width="80" /><br>

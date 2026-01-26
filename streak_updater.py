@@ -2,58 +2,89 @@ import requests
 from datetime import datetime, timedelta
 import re
 
+# =========================
+# USER CONFIG
+# =========================
 GITHUB_USERNAME = "Emtiaz-ahmed-13"
 LEETCODE_USERNAME = "emtiaz"
 CODEFORCES_USERNAME = "Prince_Emtiaz"
+README_FILE = "README.md"
 
+
+# =========================
+# GITHUB STREAK (COSMETIC)
+# =========================
 def get_github_contributions():
     """
-    Get GitHub contributions and calculate the actual streak.
-    This uses the GitHub GraphQL API to get accurate contribution data.
+    NOTE:
+    This is a cosmetic streak based on a fixed start date.
+    For real contribution streak, GitHub GraphQL + token is required.
     """
-    try:
-        # For now, we'll use a simplified approach
-        # You can enhance this by using GitHub's GraphQL API with a token
-        
-        # Calculate days from Dec 31, 2025 to today
-        start_date = datetime(2025, 12, 31)
-        today = datetime.now()
-        days_diff = (today - start_date).days + 1  # +1 to include both start and end dates
-        
-        return days_diff, start_date.strftime("%b %d, %Y"), today.strftime("%b %d, %Y")
-    except Exception as e:
-        print(f"Error calculating GitHub streak: {e}")
-        return 0, "", ""
+    start_date = datetime(2025, 12, 31)
+    today = datetime.utcnow()
+    days = (today - start_date).days + 1
 
+    return (
+        days,
+        start_date.strftime("%b %d, %Y"),
+        today.strftime("%b %d, %Y")
+    )
+
+
+def update_readme_github_streak(days, start_date, end_date):
+    with open(README_FILE, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    # Update Days
+    # Looks for <!--GITHUB_START-->20<!--GITHUB_END-->
+    content = re.sub(
+        r"<!--GITHUB_START-->.*?<!--GITHUB_END-->",
+        f"<!--GITHUB_START-->{days}<!--GITHUB_END-->",
+        content
+    )
+
+    # Update Date Range
+    # Looks for <!--GITHUB_DATE_START-->...<!--GITHUB_DATE_END-->
+    content = re.sub(
+        r"<!--GITHUB_DATE_START-->.*?<!--GITHUB_DATE_END-->",
+        f"<!--GITHUB_DATE_START-->{start_date} → {end_date}<!--GITHUB_DATE_END-->",
+        content
+    )
+
+    with open(README_FILE, "w", encoding="utf-8") as f:
+        f.write(content)
+
+    print(f"✅ GitHub streak updated: {days} days")
+
+
+# =========================
+# LEETCODE STREAK
+# =========================
 def get_leetcode_streak(username):
     try:
         url = f"https://leetcode-stats-api.herokuapp.com/{username}"
-        response = requests.get(url)
-        data = response.json()
-        streak = data.get("streak", "N/A")
-        return f"- 🔹 LeetCode Daily Streak: `{streak} days`"
-    except:
-        return "- 🔹 LeetCode Daily Streak: `Error fetching streak`"
+        data = requests.get(url, timeout=10).json()
+        return data.get("streak", "N/A")
+    except Exception:
+        return "N/A"
 
-def get_codeforces_solve_streak(username):
+
+# =========================
+# CODEFORCES STREAK
+# =========================
+def get_codeforces_streak(username):
     try:
         url = f"https://codeforces.com/api/user.status?handle={username}"
-        response = requests.get(url)
-        data = response.json()
+        data = requests.get(url, timeout=10).json()
 
         if data["status"] != "OK":
-            return "- 🔹 Codeforces Solve Streak: `Error fetching submissions`"
+            return "N/A"
 
-        submissions = data["result"]
-
-        # Track days where at least one submission was made
         solved_days = set()
-        for submission in submissions:
-            timestamp = submission["creationTimeSeconds"]
-            day = datetime.utcfromtimestamp(timestamp).date()
+        for sub in data["result"]:
+            day = datetime.utcfromtimestamp(sub["creationTimeSeconds"]).date()
             solved_days.add(day)
 
-        # Build streak by checking how many consecutive days (including today) have submissions
         streak = 0
         today = datetime.utcnow().date()
 
@@ -61,62 +92,52 @@ def get_codeforces_solve_streak(username):
             streak += 1
             today -= timedelta(days=1)
 
-        return f"- 🔹 Codeforces Solve Streak: `{streak} days`"
-    except:
-        return "- 🔹 Codeforces Solve Streak: `Error calculating streak`"
+        return streak
+    except Exception:
+        return "N/A"
 
-def update_readme_github_streak(days, start_date, end_date):
-    """Update the GitHub streak section in README"""
-    try:
-        with open("README.md", "r", encoding="utf-8") as f:
-            content = f.read()
-        
-        # Pattern to find and replace the streak line
-        pattern = r'### 🔥 Current Streak: \*\*\d+ Days\*\* \n\*\*.*? → .*?\*\* 🚀'
-        replacement = f'### 🔥 Current Streak: **{days} Days** \n**{start_date} → {end_date}** 🚀'
-        
-        updated_content = re.sub(pattern, replacement, content)
-        
-        with open("README.md", "w", encoding="utf-8") as f:
-            f.write(updated_content)
-        
-        print(f"✅ Updated GitHub streak: {days} days ({start_date} → {end_date})")
-    except Exception as e:
-        print(f"Error updating GitHub streak: {e}")
 
-def update_readme_cp_streaks(streak_lines):
-    """Update the competitive programming streaks section"""
-    with open("README.md", "r", encoding="utf-8") as f:
-        lines = f.readlines()
+# =========================
+# UPDATE README CP STREAKS
+# =========================
+def update_readme_cp_streaks(leetcode, codeforces):
+    with open(README_FILE, "r", encoding="utf-8") as f:
+        content = f.read()
 
-    start = None
-    for i, line in enumerate(lines):
-        if "### 🔥 Streaks (Updated Automatically)" in line:
-            start = i
-            break
+    # LeetCode
+    content = re.sub(
+        r"<!--LEETCODE_START-->.*?<!--LEETCODE_END-->",
+        f"<!--LEETCODE_START-->{leetcode}<!--LEETCODE_END-->",
+        content
+    )
 
-    if start is not None:
-        lines = lines[:start + 1]
-        lines.append("\n")
-        lines.extend(streak_lines)
-        lines.append("\n")
+    # Codeforces
+    content = re.sub(
+        r"<!--CODEFORCES_START-->.*?<!--CODEFORCES_END-->",
+        f"<!--CODEFORCES_START-->{codeforces}<!--CODEFORCES_END-->",
+        content
+    )
 
-        with open("README.md", "w", encoding="utf-8") as f:
-            f.writelines(lines)
-        
-        print("✅ Updated competitive programming streaks")
+    with open(README_FILE, "w", encoding="utf-8") as f:
+        f.write(content)
 
+    print("✅ Competitive programming streaks updated")
+
+
+# =========================
+# MAIN
+# =========================
 if __name__ == "__main__":
-    print("🔄 Updating GitHub Profile Streaks...")
-    
-    # Update GitHub contribution streak
-    days, start_date, end_date = get_github_contributions()
-    if days > 0:
-        update_readme_github_streak(days, start_date, end_date)
-    
-    # Update competitive programming streaks
-    leetcode_line = get_leetcode_streak(LEETCODE_USERNAME)
-    codeforces_line = get_codeforces_solve_streak(CODEFORCES_USERNAME)
-    update_readme_cp_streaks([leetcode_line + "\n", codeforces_line + "\n"])
-    
-    print("✅ All streaks updated successfully!")
+    print("🔄 Updating GitHub profile streaks...\n")
+
+    # GitHub streak
+    days, start, end = get_github_contributions()
+    update_readme_github_streak(days, start, end)
+
+    # CP streaks
+    leetcode_streak = get_leetcode_streak(LEETCODE_USERNAME)
+    codeforces_streak = get_codeforces_streak(CODEFORCES_USERNAME)
+
+    update_readme_cp_streaks(leetcode_streak, codeforces_streak)
+
+    print("\n✅ All streaks updated successfully!")

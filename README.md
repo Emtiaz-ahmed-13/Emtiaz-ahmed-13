@@ -56,10 +56,7 @@
   <img src="https://img.shields.io/badge/GitHub-27_Days-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak" />
 </p>
 
-<!-- GitHub Streak Date Range (Hidden for aesthetics, or displayed simply below) -->
-<p align="center">
-  <small>GitHub Streak: <!--GITHUB_DATE_START-->Dec 31, 2025 → Jan 26, 2026<!--GITHUB_DATE_END--></small>
-</p>
+
 
 ---
 

@@ -43,14 +43,6 @@ def update_readme_github_streak(days, start_date, end_date):
         content
     )
 
-    # Update Date Range
-    # Looks for <!--GITHUB_DATE_START-->...<!--GITHUB_DATE_END-->
-    content = re.sub(
-        r"<!--GITHUB_DATE_START-->.*?<!--GITHUB_DATE_END-->",
-        f"<!--GITHUB_DATE_START-->{start_date} → {end_date}<!--GITHUB_DATE_END-->",
-        content
-    )
-
     with open(README_FILE, "w", encoding="utf-8") as f:
         f.write(content)
 

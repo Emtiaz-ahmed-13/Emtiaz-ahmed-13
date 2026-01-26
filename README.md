@@ -63,22 +63,23 @@
 ### 🚀 Featured Projects
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <a href="https://github.com/Emtiaz-ahmed-13/PurrfectHub">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emtiaz-ahmed-13&repo=PurrfectHub&theme=transparent&hide_border=true" height="150" alt="PurrfectHub" />
-    </a>
-    <a href="https://github.com/Emtiaz-ahmed-13/lifecare_portal">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emtiaz-ahmed-13&repo=lifecare_portal&theme=transparent&hide_border=true" height="150" alt="Lifecare Portal" />
-    </a>
-  </div>
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
-    <a href="https://github.com/Emtiaz-ahmed-13/ordereeats">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emtiaz-ahmed-13&repo=ordereeats&theme=transparent&hide_border=true" height="150" alt="OrderEats" />
-    </a>
-     <a href="https://github.com/Emtiaz-ahmed-13/Emtiaz-ahmed-13">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emtiaz-ahmed-13&repo=Emtiaz-ahmed-13&theme=transparent&hide_border=true" height="150" alt="Profile Analytics" />
-    </a>
-  </div>
+
+| 🐾 PurrfectHub | 🏥 LifeCare Portal |
+| :---: | :---: |
+| **Cat Adoption Platform with AI** | **Healthcare Management System** |
+| Full-stack platform for adopting pets with AI analysis. | Comprehensive portal for doctors and patients. |
+| ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) |
+| [View Project](https://github.com/Emtiaz-ahmed-13/PurrfectHub) | [View Project](https://github.com/Emtiaz-ahmed-13/lifecare_portal) |
+
+<br>
+
+| 🍔 OrderEats | 📊 Profile Analytics |
+| :---: | :---: |
+| **Food Ordering & Delivery** | **GitHub Stats Automation** |
+| Seamless food ordering application with real-time tracking. | Python script for tracking daily streaks on the profile. |
+| ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions) |
+| [View Project](https://github.com/Emtiaz-ahmed-13/ordereeats) | [View Project](https://github.com/Emtiaz-ahmed-13/Emtiaz-ahmed-13) |
+
 </div>
 
 ---

@@ -60,14 +60,17 @@ def update_readme_github_streak(days, start_date, end_date):
 # =========================
 # LEETCODE STREAK
 # =========================
+# =========================
+# LEETCODE STREAK
+# =========================
 def get_leetcode_streak(username):
     try:
         url = f"https://leetcode-stats-api.herokuapp.com/{username}"
         data = requests.get(url, timeout=10).json()
 
-        # If API provides streak directly
-        if "streak" in data:
-            return data["streak"]
+        # Check for API-provided streak first (though sometimes inaccurate)
+        # if "streak" in data and data["streak"] > 0:
+        #     return data["streak"]
         
         # Fallback: Calculate manually from submissionCalendar
         calendar = data.get("submissionCalendar", {})
@@ -81,6 +84,23 @@ def get_leetcode_streak(username):
             ts = int(ts_str)
             date = datetime.utcfromtimestamp(ts).date()
             solved_days.add(date)
+
+        # -----------------------------------------------
+        # MANUAL FIX: Time Travel Tickets / Streak Freezes
+        # Add dates here that you repaired on LeetCode
+        # -----------------------------------------------
+        MANUAL_FILL_DATES = [
+            "2025-07-17",  # Fixed gap
+            "2025-07-11",  # Fixed gap 2
+        ]
+        
+        for date_str in MANUAL_FILL_DATES:
+            try:
+                manual_date = datetime.strptime(date_str, "%Y-%m-%d").date()
+                solved_days.add(manual_date)
+            except ValueError:
+                pass
+        # -----------------------------------------------
             
         today = datetime.utcnow().date()
         yesterday = today - timedelta(days=1)

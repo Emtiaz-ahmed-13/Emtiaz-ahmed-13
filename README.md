@@ -51,7 +51,7 @@
 
 <p align="center">
   <!-- Streaks -->
-  <img src="https://img.shields.io/badge/LeetCode-193_Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Streak" />
+  <img src="https://img.shields.io/badge/LeetCode-240_Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Streak" />
   <img src="https://img.shields.io/badge/Codeforces-0_Days-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Streak" />
   <img src="https://img.shields.io/badge/GitHub-27_Days-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak" />
 </p>

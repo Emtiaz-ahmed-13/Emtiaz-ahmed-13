@@ -76,11 +76,7 @@
 
 ---
 
-### 🐍 Contribution Activity
 
-<img src="https://raw.githubusercontent.com/Emtiaz-ahmed-13/Emtiaz-ahmed-13/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
----
 
 ### 🚀 Featured Projects
 

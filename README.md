@@ -107,9 +107,55 @@ Seeking opportunities as a **Software Engineer** where I can leverage my full-st
 
 <div align="left">
 
-**🎓 Full Stack Web Development**  
-Programming Hero | 2024  
-*Comprehensive MERN stack development certification*
+<details>
+<summary><b>🎓 Full Stack Web Development - Programming Hero (2024)</b></summary>
+<br>
+
+**Next Level Web Development Course**  
+*Fullstack Track*
+
+**Technologies Covered:**
+- TypeScript, Node.js, Express
+- React, Redux, Next.js
+- SQL, PostgreSQL, Prisma, MongoDB, Mongoose
+
+**Validation Number:** P
+
+<img src="programming_hero_certificate.jpg" alt="Programming Hero Certificate" width="600"/>
+
+</details>
+
+<details>
+<summary><b>🗄️ SQL (Intermediate) - HackerRank (2025)</b></summary>
+<br>
+
+**Certificate ID:** C7DD49D1DE56  
+**Earned on:** May 26, 2025
+
+**Skills Demonstrated:**
+- Advanced SQL queries and joins
+- Database design and optimization
+- Complex data manipulation
+- Query performance tuning
+
+<img src="hackerrank_sql_certificate.jpg" alt="HackerRank SQL Certificate" width="600"/>
+
+</details>
+
+<details>
+<summary><b>🏆 Bit Battles Programming Contest - BRAC University (2026)</b></summary>
+<br>
+
+**Event:** Exit Bit Battles - Intra BRAC University Programming Contest  
+**Organized by:** BRAC University Computer Club  
+**Certificate ID:** BUCC25BB0S4EQX  
+**Date:** August 26, 2026
+
+**Achievement:** Participated in competitive programming contest demonstrating problem-solving skills and algorithmic expertise.
+
+<img src="brac_programming_contest_certificate.jpg" alt="BRAC Programming Contest Certificate" width="600"/>
+
+</details>
 
 **💻 Competitive Programming**  
 LeetCode | 240+ Day Streak  

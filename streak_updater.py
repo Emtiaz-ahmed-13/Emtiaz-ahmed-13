@@ -20,7 +20,7 @@ def get_github_contributions():
     This is a cosmetic streak based on a fixed start date.
     For real contribution streak, GitHub GraphQL + token is required.
     """
-    start_date = datetime(2025, 12, 31)
+    start_date = datetime(2026, 1, 1)
     today = datetime.utcnow()
     days = (today - start_date).days + 1
 
@@ -36,10 +36,10 @@ def update_readme_github_streak(days, start_date, end_date):
         content = f.read()
 
     # Update Badge Count
-    # Looks for badge/GitHub-27_Days
+    # Looks for badge with emoji prefix like 😺_GITHUB-27_DAYS
     content = re.sub(
-        r"badge/GitHub-\d+_Days",
-        f"badge/GitHub-{days}_Days",
+        r"(badge/[^-]*_?GITHUB-)\d+(_DAYS)",
+        rf"\g<1>{days}\g<2>",
         content
     )
 

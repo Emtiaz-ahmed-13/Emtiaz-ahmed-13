@@ -2,6 +2,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8E%AF;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Emtiaz-ahmed-13&color=2094F3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 <h3>Software Engineer | React & Next.js Specialist | Problem Solver</h3>
 
 <p>
@@ -40,6 +44,14 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Emtiaz-ahmed-13&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -62,6 +74,22 @@
   <img src="https://img.shields.io/badge/📊_CODEFORCES-0_DAYS-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Streak" />
   <img src="https://img.shields.io/badge/😺_GITHUB-31_DAYS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak" />
 </p>
+
+<br>
+
+### 💻 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/emtiaz2060?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" />
+</div>
+
+<br>
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emtiaz-ahmed-13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2094F3&line=2094F3&point=FFFFFF" alt="Activity Graph" />
+</div>
 
 
 

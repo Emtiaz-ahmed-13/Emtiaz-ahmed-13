@@ -43,17 +43,24 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-ahmed-13&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emtiaz-ahmed-13&layout=compact&theme=transparent&hide_border=true" height="180" alt="languages graph" />
+
+#### Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emtiaz-ahmed-13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2094F3&text_color=FFFFFF" height="180" alt="languages graph" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-ahmed-13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2094F3&icon_color=2094F3&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Emtiaz-ahmed-13&theme=tokyonight&hide_border=true&background=0D1117&ring=2094F3&fire=2094F3&currStreakLabel=2094F3" height="180" alt="streak stats" />
+
 </div>
 
 <br>
 
 <p align="center">
-  <!-- Streaks -->
-  <img src="https://img.shields.io/badge/LeetCode-240_Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Streak" />
-  <img src="https://img.shields.io/badge/Codeforces-0_Days-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Streak" />
-  <img src="https://img.shields.io/badge/GitHub-27_Days-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak" />
+  <!-- Coding Platform Streaks -->
+  <img src="https://img.shields.io/badge/🏆_LEETCODE-240_DAYS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Streak" />
+  <img src="https://img.shields.io/badge/📊_CODEFORCES-0_DAYS-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Streak" />
+  <img src="https://img.shields.io/badge/😺_GITHUB-27_DAYS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak" />
 </p>
 
 

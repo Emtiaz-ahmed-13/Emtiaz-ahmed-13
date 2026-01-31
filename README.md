@@ -66,9 +66,27 @@ Seeking opportunities as a **Software Engineer** where I can leverage my full-st
 
 <div align="left">
 
-**B.Sc. in Computer Science**  
-[BRAC University](https://www.bracu.ac.bd/) | Dhaka, Bangladesh  
-📅 2022 - Present
+<table>
+<tr>
+<td width="100">
+<img src="brac_logo.png" alt="BRAC University" width="80"/>
+</td>
+<td>
+
+**Bachelor of Science in Computer Science**  
+**[BRAC University](https://www.bracu.ac.bd/)** | Dhaka, Bangladesh  
+📅 **2022 - Present** (Expected Graduation: 2026)
+
+**Relevant Coursework:**
+- Data Structures & Algorithms
+- Database Management Systems
+- Software Engineering
+- Web Technologies
+- Object-Oriented Programming
+
+</td>
+</tr>
+</table>
 
 </div>
 

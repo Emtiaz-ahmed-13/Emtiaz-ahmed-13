@@ -81,23 +81,24 @@ Seeking opportunities as a **Software Engineer** where I can leverage my full-st
 
 <table>
 <tr>
-<td width="100">
-<img src="brac_logo.png" alt="BRAC University" width="80"/>
-</td>
-<td>
-
-**Bachelor of Science in Computer Science**  
-**[BRAC University](https://www.bracu.ac.bd/)** | Dhaka, Bangladesh  
-📅 **2022 - Present** (Expected Graduation: 2026)
-
-**Relevant Coursework:**
-- Data Structures & Algorithms
-- Database Management Systems
-- Software Engineering
-- Web Technologies
-- Object-Oriented Programming
-
-</td>
+  <td width="120" align="center" valign="middle">
+    <img src="brac_logo.png" alt="BRAC University" width="80"/>
+  </td>
+  <td>
+    <h4>Bachelor of Science in Computer Science</h4>
+    <h3><a href="https://www.bracu.ac.bd/">BRAC University</a></h3>
+    <span>📍 Dhaka, Bangladesh</span><br>
+    <span>📅 2022 - Present (Expected Graduation: 2026)</span>
+    <br><br>
+    <b>Relevant Coursework:</b>
+    <ul>
+      <li>Data Structures & Algorithms</li>
+      <li>Database Management Systems</li>
+      <li>Software Engineering</li>
+      <li>Web Technologies</li>
+      <li>Object-Oriented Programming</li>
+    </ul>
+  </td>
 </tr>
 </table>
 
@@ -108,64 +109,82 @@ Seeking opportunities as a **Software Engineer** where I can leverage my full-st
 
 <div align="left">
 
-<details>
-<summary><b>🎓 Full Stack Web Development - Programming Hero (2024)</b></summary>
-<br>
+<table>
+  <!-- Programming Hero -->
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <img src="https://avatars.githubusercontent.com/u/53702220?s=200&v=4" alt="Programming Hero" width="80"/>
+    </td>
+    <td>
+      <h4>Full Stack Web Development</h4>
+      <h3>Programming Hero</h3>
+      <span>📅 2024 | Validation ID: <b>P</b></span>
+      <br><br>
+      <i>Comprehensive MERN stack development certification covering TypeScript, Node.js, Express, React, and PostgreSQL.</i>
+      <br><br>
+      <details>
+        <summary><b>📄 Show Certificate</b></summary>
+        <br>
+        <img src="programming_hero_certificate.jpg" alt="Programming Hero Certificate" width="600"/>
+      </details>
+    </td>
+  </tr>
 
-**Next Level Web Development Course**  
-*Fullstack Track*
+  <!-- HackerRank SQL -->
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="80"/>
+    </td>
+    <td>
+      <h4>SQL (Intermediate)</h4>
+      <h3>HackerRank</h3>
+      <span>📅 May 2025 | ID: <b>C7DD49D1DE56</b></span>
+      <br><br>
+      <i>Demonstrated advanced skills in SQL queries, joins, database design, and query performance optimization.</i>
+      <br><br>
+      <details>
+        <summary><b>📄 Show Certificate</b></summary>
+        <br>
+        <img src="hackerrank_sql_certificate.jpg" alt="HackerRank SQL Certificate" width="600"/>
+      </details>
+    </td>
+  </tr>
 
-**Technologies Covered:**
-- TypeScript, Node.js, Express
-- React, Redux, Next.js
-- SQL, PostgreSQL, Prisma, MongoDB, Mongoose
+  <!-- BRAC Programming Contest -->
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <img src="brac_logo.png" alt="BRAC University" width="80"/>
+    </td>
+    <td>
+      <h4>Bit Battles Programming Contest</h4>
+      <h3>BRAC University Computer Club</h3>
+      <span>📅 Aug 2026 | ID: <b>BUCC25BB0S4EQX</b></span>
+      <br><br>
+      <i>Intra-university competitive programming contest utilizing advanced algorithms and problem-solving strategies.</i>
+      <br><br>
+      <details>
+        <summary><b>📄 Show Certificate</b></summary>
+        <br>
+        <img src="brac_programming_contest_certificate.jpg" alt="BRAC Certificate" width="600"/>
+      </details>
+    </td>
+  </tr>
 
-**Validation Number:** P
-
-<img src="programming_hero_certificate.jpg" alt="Programming Hero Certificate" width="600"/>
-
-</details>
-
-<details>
-<summary><b>🗄️ SQL (Intermediate) - HackerRank (2025)</b></summary>
-<br>
-
-**Certificate ID:** C7DD49D1DE56  
-**Earned on:** May 26, 2025
-
-**Skills Demonstrated:**
-- Advanced SQL queries and joins
-- Database design and optimization
-- Complex data manipulation
-- Query performance tuning
-
-<img src="hackerrank_sql_certificate.jpg" alt="HackerRank SQL Certificate" width="600"/>
-
-</details>
-
-<details>
-<summary><b>🏆 Bit Battles Programming Contest - BRAC University (2026)</b></summary>
-<br>
-
-**Event:** Exit Bit Battles - Intra BRAC University Programming Contest  
-**Organized by:** BRAC University Computer Club  
-**Certificate ID:** BUCC25BB0S4EQX  
-**Date:** August 26, 2026
-
-**Achievement:** Participated in competitive programming contest demonstrating problem-solving skills and algorithmic expertise.
-
-<img src="brac_programming_contest_certificate.jpg" alt="BRAC Programming Contest Certificate" width="600"/>
-
-</details>
-
-<details>
-<summary><b>💻 Competitive Programming - LeetCode</b></summary>
-<br>
-
-**240+ Day Streak**  
-*Consistent problem-solving and algorithmic thinking*
-
-</details>
+  <!-- LeetCode -->
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="70"/>
+    </td>
+    <td>
+      <h4>Competitive Programming Streak</h4>
+      <h3>LeetCode</h3>
+      <span>🔥 <b>240+ Days Active</b></span>
+      <br><br>
+      <i>Consistent daily problem solving focusing on Data Structures and Algorithms optimization.</i>
+      <br>
+    </td>
+  </tr>
+</table>
 
 </div>
 

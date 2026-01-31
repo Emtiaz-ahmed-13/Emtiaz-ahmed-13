@@ -47,7 +47,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Emtiaz-ahmed-13&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Emtiaz-ahmed-13&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -80,7 +80,7 @@
 ### 💻 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/emtiaz2060?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/emtiaz?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" />
 </div>
 
 <br>

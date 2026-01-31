@@ -25,7 +25,7 @@
   </a>
 </p>
 
-### 📬 Contact & Availability
+<h3 align="center">📬 Contact & Availability</h3>
 
 <div align="center">
 
@@ -33,6 +33,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emtiaz-ahmed-2892871a2/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emtiaz2060@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white)](Emtiaz_Ahmed.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emtiaz-ahmed-13)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/errorprogrammer11)
 
@@ -43,7 +44,7 @@
 
 ---
 
-### 👨‍💻 About Me
+<h3 align="center">👨‍💻 About Me</h3>
 
 <div align="left">
 
@@ -74,7 +75,7 @@ Seeking opportunities as a **Software Engineer** where I can leverage my full-st
 
 ---
 
-### 🎓 Education
+<h3 align="center">🎓 Education</h3>
 
 <div align="left">
 
@@ -103,7 +104,7 @@ Seeking opportunities as a **Software Engineer** where I can leverage my full-st
 </div>
 
 
-### 📜 Certifications
+<h3 align="center">📜 Certifications</h3>
 
 <div align="left">
 
@@ -157,16 +158,21 @@ Seeking opportunities as a **Software Engineer** where I can leverage my full-st
 
 </details>
 
-**💻 Competitive Programming**  
-LeetCode | 240+ Day Streak  
+<details>
+<summary><b>💻 Competitive Programming - LeetCode</b></summary>
+<br>
+
+**240+ Day Streak**  
 *Consistent problem-solving and algorithmic thinking*
+
+</details>
 
 </div>
 
 ---
 ---
 
-### 🛠️ Tech Stack & Skills
+<h3 align="center">🛠️ Tech Stack & Skills</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c&theme=dark" alt="Languages" /><br>
@@ -214,7 +220,7 @@ System Design     ███████████████░░░░░ 7
 
 ---
 
-### 🏆 GitHub Achievements
+<h3 align="center">🏆 GitHub Achievements</h3>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emtiaz-ahmed-13&theme=tokyonight" alt="GitHub Profile Summary" />
@@ -222,7 +228,7 @@ System Design     ███████████████░░░░░ 7
 
 ---
 
-### 📊 GitHub Analytics
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
 
@@ -247,7 +253,7 @@ System Design     ███████████████░░░░░ 7
 
 <br>
 
-### 💻 LeetCode Stats
+<h3 align="center">💻 LeetCode Stats</h3>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/emtiaz?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" />
@@ -255,7 +261,7 @@ System Design     ███████████████░░░░░ 7
 
 <br>
 
-### 📈 Contribution Activity
+<h3 align="center">📈 Contribution Activity</h3>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emtiaz-ahmed-13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2094F3&line=2094F3&point=FFFFFF" alt="Activity Graph" />
@@ -265,7 +271,7 @@ System Design     ███████████████░░░░░ 7
 
 ---
 
-### 🚀 Featured Projects
+<h3 align="center">🚀 Featured Projects</h3>
 
 <div align="left">
 

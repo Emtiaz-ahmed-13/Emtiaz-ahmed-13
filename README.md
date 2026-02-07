@@ -65,7 +65,6 @@ I'm a **passionate Full Stack Developer** with expertise in building scalable, p
 - 🌱 Learning **Advanced System Design, Cloud Architecture & DevOps**
 - 👯 Open to collaborate on **Open Source Projects** and **Innovative Startups**
 - 💬 Ask me about **React, Next.js, Node.js, TypeScript, Prisma, and Competitive Programming**
-- ⚡ Fun fact: **I can center a div in 3 different ways... and I know when to use each!**
 
 #### 🎯 Career Goals
 

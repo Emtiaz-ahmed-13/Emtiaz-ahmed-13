@@ -264,7 +264,7 @@ System Design     ███████████████░░░░░ 7
 
 <p align="center">
   <!-- Coding Platform Streaks -->
-  <img src="https://img.shields.io/badge/🏆_LEETCODE-240_DAYS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Streak" />
+  <img src="https://img.shields.io/badge/🏆_LEETCODE-250_DAYS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Streak" />
   <img src="https://img.shields.io/badge/📊_CODEFORCES-0_DAYS-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Streak" />
   <img src="https://img.shields.io/badge/😺_GITHUB-31_DAYS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak" />
 </p>

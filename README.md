@@ -53,6 +53,29 @@ I specialize in developing AI-powered platforms, SaaS products, marketplaces, an
 
 # 👨‍💻 About Me
 
+I'm a **passionate Full Stack Developer** with expertise in building scalable, production-ready web applications using modern technologies. With a strong foundation in **competitive programming** and **problem-solving**, I bring algorithmic thinking to real-world software development challenges.
+
+#### 💼 Professional Highlights
+
+- 🎯 **2+ years** of hands-on experience in full-stack development
+- 🏗️ Built **5+ production-grade applications** serving real users
+- 🚀 Specialized in **Next.js, React, Node.js, TypeScript, and PostgreSQL**
+- 🤖 Integrated **AI/ML features** (Gemini AI, Groq AI) into web applications
+- 💳 Implemented **payment systems** (Stripe) and **real-time features** (Socket.IO)
+- 📊 Strong background in **Data Structures & Algorithms** (500+ DSA problems solved)
+
+#### 🎓 What I Do
+
+- 🔭 Currently working on **Full Stack Web Development** with focus on scalable architectures
+- 🌱 Learning **Advanced System Design, Cloud Architecture & DevOps**
+- 👯 Open to collaborate on **Open Source Projects** and **Innovative Startups**
+- 💬 Ask me about **React, Next.js, Node.js, TypeScript, Prisma, and Competitive Programming**
+- ⚡ Fun fact: **I can center a div in 3 different ways... and I know when to use each!**
+
+#### 🎯 Career Goals
+
+Seeking opportunities as a **Software Engineer** where I can leverage my full-stack expertise to build impactful products, contribute to innovative teams, and continue growing as a developer.
+
 - 🎓 B.Sc. in Computer Science at BRAC University
 - 💻 Full Stack Web Developer
 - 🚀 Passionate about scalable backend systems and modern frontend architecture
@@ -60,6 +83,37 @@ I specialize in developing AI-powered platforms, SaaS products, marketplaces, an
 - 🌱 Currently learning **NestJS, Redis, Docker, AWS, CI/CD, and System Design**
 - 📚 Solved **500+ DSA problems** across LeetCode, Codeforces & CodeChef
 - 🎯 Goal: Software Engineer / Full Stack Developer
+
+---
+
+# 🎓 Education
+
+<div align="left">
+
+<table>
+<tr>
+<td width="100">
+<img src="brac_logo.png" alt="BRAC University" width="80"/>
+</td>
+<td>
+
+**Bachelor of Science in Computer Science**  
+**[BRAC University](https://www.bracu.ac.bd/)** | Dhaka, Bangladesh  
+📅 **2022 - Present** (Expected Graduation: 2026)
+
+**Relevant Coursework:**
+
+- Data Structures & Algorithms
+- Database Management Systems
+- Software Engineering
+- Web Technologies
+- Object-Oriented Programming
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -128,9 +182,50 @@ I specialize in developing AI-powered platforms, SaaS products, marketplaces, an
 - Vitest
 - Playwright
 
+<details>
+<summary><b>💡 Skills Proficiency</b></summary>
+<br>
+
+**Frontend Development**
+
+```
+React.js          ██████████████░░░░░░ 70%
+Next.js           ██████████████░░░░░░ 70%
+TypeScript        ██████████████░░░░░░ 70%
+Tailwind CSS      ██████████░░░░░░░░░░ 50%
+```
+
+**Backend Development**
+
+```
+Node.js           ███████████████████░ 90%
+Express.js        ███████████████████░ 90%
+PostgreSQL        █████████████████░░░ 80%
+Prisma ORM        ██████████████████░░ 85%
+```
+
+**Tools & Technologies**
+
+```
+Git & GitHub      ████████████████████ 95%
+Docker            ████████████░░░░░░░░ 60%
+Vercel/Netlify    ███████████████████░ 90%
+Socket.io         ██████████████████░░ 85%
+```
+
+**Problem Solving**
+
+```
+Data Structures   ███████████████████░ 90%
+Algorithms        ██████████████████░░ 85%
+System Design     ███████████████░░░░░ 70%
+```
+
+</details>
+
 ---
 
-# 💡 Core Skills
+## 💡 Core Skills
 
 - Full Stack Development
 - Responsive UI Design
@@ -178,15 +273,27 @@ I specialize in developing AI-powered platforms, SaaS products, marketplaces, an
 - Greedy
 - Binary Search
 
-### Codeforces
+### [Codeforces](https://codeforces.com/profile/Prince_Emtiaz)
 
 - Max Rating: **1380**
 - 340+ Problems Solved
 
-### CodeChef
+### [CodeChef](https://www.codechef.com/users/your_username)
 
 - ⭐ 2 Star
 - 150+ Problems Solved
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+  <img src="programming_hero_certificate.jpg" alt="Programming Hero Certificate" width="400"/>
+  <br><br>
+  <img src="hackerrank_sql_certificate.jpg" alt="HackerRank SQL Certificate" width="400"/>
+  <br><br>
+  <img src="brac_programming_contest_certificate.jpg" alt="BRAC Programming Contest Certificate" width="400"/>
+</div>
 
 ---
 
@@ -361,9 +468,63 @@ Next.js • TypeScript • PostgreSQL • Prisma • Stripe • Socket.IO
 
 🔗 [Live Demo]()
 
-💻 [Clien]t(https://github.com/Emtiaz-ahmed-13/eventmate_client)
+💻 [Client](https://github.com/Emtiaz-ahmed-13/eventmate_client)
 
 ⚙️ [Server](https://github.com/Emtiaz-ahmed-13/eventmate_server)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🔐 Nebula Chat
+
+Secure Self-Destructing Messaging Platform.
+
+**Highlights**
+
+- 🔐 End-to-End Encryption
+- ⏰ Self-Destructing Messages
+- 🚫 No Permanent Storage
+- 🌐 Real-time Communication
+- 🔒 Secure Rooms
+- 📱 Fully Responsive
+
+**Tech**
+
+Next.js • TypeScript • Tailwind CSS • Redis • Elysia.js
+
+**Links**
+
+🔗 [Live Demo](https://nebula-gamma-teal.vercel.app/)
+
+💻 [Client & Server](https://github.com/Emtiaz-ahmed-13/nebula)
+
+</td>
+
+<td width="50%">
+
+### 🍔 OrderEats
+
+Food Ordering & Delivery Platform.
+
+**Highlights**
+
+- 📱 Modern UI
+- 🚀 Real-time Order Tracking
+- 🛒 Cart Management
+- 📊 Order History
+
+**Tech**
+
+Next.js • React • Redux • Prisma
+
+**Links**
+
+💻 [Repository](https://github.com/Emtiaz-ahmed-13/ordereeats)
 
 </td>
 

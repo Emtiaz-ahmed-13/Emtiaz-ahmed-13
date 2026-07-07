@@ -160,13 +160,14 @@ I specialize in developing AI-powered platforms, SaaS products, marketplaces, an
 - 150+ Problems Solved
 
 ---
-# 📊 GitHub Analytics
+
+### 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emtiaz-ahmed-13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Emtiaz-ahmed-13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2094F3&icon_color=2094F3&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emtiaz-ahmed-13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Emtiaz-ahmed-13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2094F3&text_color=FFFFFF&langs_count=8"/>
 
 </div>
 
@@ -174,7 +175,7 @@ I specialize in developing AI-powered platforms, SaaS products, marketplaces, an
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Emtiaz-ahmed-13&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Emtiaz-ahmed-13&theme=tokyonight&hide_border=true&background=0D1117&ring=2094F3&fire=2094F3&currStreakLabel=2094F3&date_format=j%20M%20Y"/>
 
 </div>
 
@@ -184,7 +185,7 @@ I specialize in developing AI-powered platforms, SaaS products, marketplaces, an
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emtiaz-ahmed-13&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emtiaz-ahmed-13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2094F3&line=2094F3&point=FFFFFF"/>
 
 </p>
 
@@ -228,11 +229,11 @@ Next.js • TypeScript • Node.js • Express • MongoDB • Stripe • Socket
 
 **Links**
 
-🔗 Live Demo
+🔗 [Live Demo](https://skillsync-client.vercel.app/)
 
-💻 Client
+💻 [Client](https://github.com/Emtiaz-ahmed-13/skillsync/tree/main/skillsync_client)
 
-⚙️ Server
+⚙️ [Server](https://github.com/Emtiaz-ahmed-13/skillsync)
 
 </td>
 
@@ -294,11 +295,11 @@ Next.js • TypeScript • Express • PostgreSQL • Prisma • Gemini AI • S
 
 **Links**
 
-🔗 Live Demo
+🔗 [Live Demo](https://purrfecthub-client.vercel.app/)
 
-💻 Client
+💻 [Client](https://github.com/Emtiaz-ahmed-13/purrfecthub)
 
-⚙️ Server
+⚙️ [Server](https://github.com/Emtiaz-ahmed-13/purrfecthub)
 
 </td>
 

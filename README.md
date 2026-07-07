@@ -267,26 +267,39 @@ System Design     ███████████████░░░░░ 7
 
 # 🏆 Competitive Programming
 
-### [LeetCode](https://leetcode.com/u/emtiaz)
-
-- ✅ 701+ Problems Solved
-- Data Structures & Algorithms
-- SQL
-- Dynamic Programming
-- Graph
-- Trees
-- Greedy
-- Binary Search
-
-### [Codeforces](https://codeforces.com/profile/Prince_Emtiaz)
-
-- Max Rating: **1380**
-- 340+ Problems Solved
-
-### [CodeChef](https://www.codechef.com/users/your_username)
-
-- ⭐ 2 Star
-- 150+ Problems Solved
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://leetcode.com/u/emtiaz">
+          <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+        </a>
+        <br><br>
+        <h3>LeetCode</h3>
+        <p>✅ 701+ Problems Solved</p>
+        <p>Data Structures & Algorithms, SQL, Dynamic Programming, Graph, Trees, Greedy, Binary Search</p>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://codeforces.com/profile/Prince_Emtiaz">
+          <img src="cf.png" alt="Codeforces" width="200"/>
+        </a>
+        <br><br>
+        <h3>Codeforces</h3>
+        <p>Max Rating: **1380**</p>
+        <p>340+ Problems Solved</p>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://www.codechef.com/users/your_username">
+          <img src="cc.png" alt="CodeChef" width="200"/>
+        </a>
+        <br><br>
+        <h3>CodeChef</h3>
+        <p>⭐ 2 Star</p>
+        <p>150+ Problems Solved</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 

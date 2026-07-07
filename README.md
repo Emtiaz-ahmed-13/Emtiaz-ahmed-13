@@ -189,7 +189,7 @@ System Design     ███████████████░░░░░ 7
 ### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emtiaz-ahmed-13&theme=tokyonight" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emtiaz-ahmed-13&theme=github_dark" alt="GitHub Profile Summary" />
 </div>
 
 ---
@@ -200,12 +200,12 @@ System Design     ███████████████░░░░░ 7
 
 #### Most Used Languages
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Emtiaz-ahmed-13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2094F3&text_color=FFFFFF" height="180" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emtiaz-ahmed-13&layout=compact&theme=dark" height="180" alt="languages graph" />
 
 <br><br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Emtiaz-ahmed-13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2094F3&icon_color=2094F3&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Emtiaz-ahmed-13&theme=tokyonight&hide_border=true&background=0D1117&ring=2094F3&fire=2094F3&currStreakLabel=2094F3&date_format=j%20M%20Y" height="180" alt="streak stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-ahmed-13&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+<img src="https://streak-stats.demolab.com/?user=Emtiaz-ahmed-13&theme=dark" height="180" alt="streak stats" />
 
 </div>
 
@@ -269,7 +269,7 @@ System Design     ███████████████░░░░░ 7
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emtiaz-ahmed-13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2094F3&line=2094F3&point=FFFFFF" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emtiaz-ahmed-13&theme=github-dark" alt="Activity Graph" />
 </div>
 
 ---

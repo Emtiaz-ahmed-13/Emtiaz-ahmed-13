@@ -327,11 +327,11 @@ System Design     ███████████████░░░░░ 7
 
 <div align="center">
   <br>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Emtiaz-ahmed-13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=2094F3&icon_color=2094F3&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emtiaz-ahmed-13&show_icons=true&theme=dark" alt="GitHub Stats"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Emtiaz-ahmed-13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=2094F3&text_color=FFFFFF" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emtiaz-ahmed-13&layout=compact&theme=dark" alt="Top Languages"/>
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=Emtiaz-ahmed-13&theme=tokyonight&hide_border=true&background=0D1117&ring=2094F3&fire=2094F3&currStreakLabel=2094F3&date_format=j%20M%20Y" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emtiaz-ahmed-13&theme=dark" alt="GitHub Streak"/>
   <br><br>
 </div>
 
@@ -339,7 +339,7 @@ System Design     ███████████████░░░░░ 7
 
 <div align="center">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emtiaz-ahmed-13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2094F3&line=2094F3&point=FFFFFF" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emtiaz-ahmed-13&theme=github-dark" alt="Contribution Graph"/>
   <br><br>
 </div>
 
@@ -347,16 +347,15 @@ System Design     ███████████████░░░░░ 7
 
 <div align="center">
   <br>
-  <!-- Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emtiaz-ahmed-13&theme=tokyonight" alt="GitHub Profile Summary" width="700"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emtiaz-ahmed-13&theme=github_dark" alt="GitHub Profile Summary" width="700"/>
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emtiaz-ahmed-13&theme=tokyonight" alt="Repos per Language" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emtiaz-ahmed-13&theme=github_dark" alt="Repos per Language" width="400"/>
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emtiaz-ahmed-13&theme=tokyonight" alt="Most Commit Language" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emtiaz-ahmed-13&theme=github_dark" alt="Most Commit Language" width="400"/>
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emtiaz-ahmed-13&theme=tokyonight" alt="Stats" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emtiaz-ahmed-13&theme=github_dark" alt="Stats" width="400"/>
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Emtiaz-ahmed-13&theme=tokyonight&utcOffset=6" alt="Productive Time" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Emtiaz-ahmed-13&theme=github_dark&utcOffset=6" alt="Productive Time" width="400"/>
   <br><br>
 </div>
 

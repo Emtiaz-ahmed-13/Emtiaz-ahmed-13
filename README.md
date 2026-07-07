@@ -90,6 +90,7 @@ Seeking opportunities as a **Software Engineer** where I can leverage my full-st
 📅 **2022 - Present** (Expected Graduation: 2026)
 
 **Relevant Coursework:**
+
 - Data Structures & Algorithms
 - Database Management Systems
 - Software Engineering
@@ -118,6 +119,7 @@ Seeking opportunities as a **Software Engineer** where I can leverage my full-st
 <br>
 
 **Frontend Development**
+
 ```
 React.js          ████████████████████ 95%
 Next.js           ███████████████████░ 90%
@@ -126,6 +128,7 @@ Tailwind CSS      ████████████████████ 9
 ```
 
 **Backend Development**
+
 ```
 Node.js           ███████████████████░ 90%
 Express.js        ███████████████████░ 90%
@@ -134,6 +137,7 @@ Prisma ORM        ██████████████████░░ 8
 ```
 
 **Tools & Technologies**
+
 ```
 Git & GitHub      ████████████████████ 95%
 Docker            ████████████░░░░░░░░ 60%
@@ -142,6 +146,7 @@ Socket.io         ██████████████████░░ 8
 ```
 
 **Problem Solving**
+
 ```
 Data Structures   ███████████████████░ 90%
 Algorithms        ██████████████████░░ 85%
@@ -149,6 +154,35 @@ System Design     ███████████████░░░░░ 7
 ```
 
 </details>
+
+---
+
+### 📜 Certifications
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="programming_hero_certificate.jpg" alt="Programming Hero" width="200"/>
+        <br><br>
+        <h3>Programming Hero</h3>
+        <p>Full Stack Web Development</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="hackerrank_sql_certificate.jpg" alt="HackerRank SQL" width="200"/>
+        <br><br>
+        <h3>HackerRank</h3>
+        <p>SQL (Intermediate)</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="brac_programming_contest_certificate.jpg" alt="BRAC Programming Contest" width="200"/>
+        <br><br>
+        <h3>BRAC University</h3>
+        <p>Programming Contest</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -165,6 +199,7 @@ System Design     ███████████████░░░░░ 7
 <div align="center">
 
 #### Most Used Languages
+
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Emtiaz-ahmed-13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2094F3&text_color=FFFFFF" height="180" alt="languages graph" />
 
 <br><br>
@@ -193,13 +228,49 @@ System Design     ███████████████░░░░░ 7
 
 <br>
 
+### 🏆 Competitive Programming
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://leetcode.com/u/emtiaz">
+          <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+        </a>
+        <br><br>
+        <h3>LeetCode</h3>
+        <p>✅ 701+ Problems Solved</p>
+        <p>Data Structures & Algorithms, SQL</p>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://codeforces.com/profile/Prince_Emtiaz">
+          <img src="cf.png" alt="Codeforces" width="200"/>
+        </a>
+        <br><br>
+        <h3>Codeforces</h3>
+        <p>Max Rating: 1380</p>
+        <p>340+ Problems Solved</p>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://www.codechef.com/users/your_username">
+          <img src="cc.png" alt="CodeChef" width="200"/>
+        </a>
+        <br><br>
+        <h3>CodeChef</h3>
+        <p>⭐ 2 Star</p>
+        <p>150+ Problems Solved</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emtiaz-ahmed-13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2094F3&line=2094F3&point=FFFFFF" alt="Activity Graph" />
 </div>
-
-
 
 ---
 
@@ -214,6 +285,7 @@ System Design     ███████████████░░░░░ 7
 **Solution:** Built a comprehensive full-stack platform connecting homeless cats with loving families through modern technology.
 
 **Key Features:**
+
 - 🤖 **AI-Powered Assistant** - Gemini AI integration for 24/7 cat care advice
 - 💬 **Real-time Chat** - Socket.io for instant shelter-adopter communication
 - 💳 **Secure Donations** - Stripe payment integration for shelter support
@@ -232,10 +304,10 @@ System Design     ███████████████░░░░░ 7
 <summary>Click to view screenshots</summary>
 
 ![PurrfectHub Hero](purrfecthub_hero.png)
-*Hero section with modern UI and cat adoption call-to-action*
+_Hero section with modern UI and cat adoption call-to-action_
 
 ![PurrfectHub Cats](purrfecthub_cats.png)
-*Featured cats available for adoption*
+_Featured cats available for adoption_
 
 </details>
 
@@ -250,6 +322,7 @@ System Design     ███████████████░░░░░ 7
 **Solution:** Developed a comprehensive collaboration platform connecting freelancers with clients for seamless project execution.
 
 **Key Features:**
+
 - 📊 **Project Management** - Kanban-style task boards with milestone tracking
 - 💰 **Payment Integration** - Stripe-powered secure milestone-based payments
 - 📁 **File Management** - ImageKit integration for project file uploads
@@ -269,7 +342,7 @@ System Design     ███████████████░░░░░ 7
 <summary>Click to view screenshot</summary>
 
 ![SkillSync Hero](skillsync_hero.png)
-*Professional collaboration platform connecting freelancers with clients*
+_Professional collaboration platform connecting freelancers with clients_
 
 </details>
 
@@ -284,6 +357,7 @@ System Design     ███████████████░░░░░ 7
 **Solution:** Created a secure messaging platform with end-to-end encryption and automatic message destruction.
 
 **Key Features:**
+
 - 🔐 **End-to-End Encryption** - All messages encrypted for maximum privacy
 - ⏰ **Self-Destructing Messages** - Auto-delete after configurable duration (5min - 1hr)
 - 🚫 **No Permanent Storage** - Messages never stored permanently on servers
@@ -302,7 +376,7 @@ System Design     ███████████████░░░░░ 7
 <summary>Click to view screenshot</summary>
 
 ![Nebula Chat](nebula_hero.png)
-*Secure, private, self-destructing chat rooms with end-to-end encryption*
+_Secure, private, self-destructing chat rooms with end-to-end encryption_
 
 </details>
 
@@ -322,7 +396,6 @@ System Design     ███████████████░░░░░ 7
 [📂 View Repository](https://github.com/Emtiaz-ahmed-13/ordereeats)
 
 </div>
-
 
 ---
 

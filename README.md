@@ -343,14 +343,13 @@ System Design     ███████████████░░░░░ 7
   <br><br>
 </div>
 
-## 🏆 GitHub Trophies & Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
   <br>
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Emtiaz-ahmed-13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=7" alt="GitHub Trophies" width="95%"/>
-  <br><br>
   <!-- Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emtiaz-ahmed-13&theme=tokyonight" alt="GitHub Profile Summary" width="700"/>
+  <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emtiaz-ahmed-13&theme=tokyonight" alt="Repos per Language" width="400"/>
   &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emtiaz-ahmed-13&theme=tokyonight" alt="Most Commit Language" width="400"/>

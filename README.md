@@ -1,3 +1,32 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8E%AF;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Emtiaz-ahmed-13&color=2094F3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<h3>Software Engineer | React & Next.js Specialist | Problem Solver</h3>
+
+<p>
+  Building scalable web applications with modern technologies.<br>
+  Merging clean code with efficient algorithms.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Emtiaz-ahmed-13?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Emtiaz-ahmed-13?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Emtiaz-ahmed-13">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Emtiaz-ahmed-13?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://github.com/Emtiaz-ahmed-13?tab=repositories">
+    <img alt="repositories" title="Public repositories" src="https://custom-icon-badges.demolab.com/badge/repositories-17-blue.svg?style=for-the-badge&logo=repo&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
 # Hi 👋, I'm Emtiaz Ahmed
 
 ### Full Stack Developer | MERN & Next.js | TypeScript | Problem Solver
@@ -158,6 +187,24 @@ I specialize in developing AI-powered platforms, SaaS products, marketplaces, an
 
 - ⭐ 2 Star
 - 150+ Problems Solved
+
+---
+
+## 💻 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/emtiaz?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" />
+</div>
+
+<br>
+
+---
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emtiaz-ahmed-13&theme=tokyonight" alt="GitHub Profile Summary" />
+</div>
 
 ---
 

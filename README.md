@@ -331,7 +331,7 @@ System Design     ███████████████░░░░░ 7
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Emtiaz-ahmed-13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=2094F3&text_color=FFFFFF" alt="Top Languages"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emtiaz-ahmed-13&theme=tokyonight&hide_border=true&background=0D1117&ring=2094F3&fire=2094F3&currStreakLabel=2094F3&date_format=j%20M%20Y" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Emtiaz-ahmed-13&theme=tokyonight&hide_border=true&background=0D1117&ring=2094F3&fire=2094F3&currStreakLabel=2094F3&date_format=j%20M%20Y" alt="GitHub Streak"/>
   <br><br>
 </div>
 

@@ -237,11 +237,30 @@ System Design     ███████████████░░░░░ 7
 # 📜 Certifications
 
 <div align="center">
-  <img src="programming_hero_certificate.jpg" alt="Programming Hero Certificate" width="400"/>
-  <br><br>
-  <img src="hackerrank_sql_certificate.jpg" alt="HackerRank SQL Certificate" width="400"/>
-  <br><br>
-  <img src="brac_programming_contest_certificate.jpg" alt="BRAC Programming Contest Certificate" width="400"/>
+  <table>
+    <tr>
+      <td align="center" width="45%">
+        <img src="programming_hero_certificate.jpg" alt="Programming Hero Certificate" width="400"/>
+        <br><br>
+        <h3>Programming Hero</h3>
+        <p>Complete Web Development (Level 1 & 2)</p>
+      </td>
+      <td align="center" width="45%">
+        <img src="hackerrank_sql_certificate.jpg" alt="HackerRank SQL Certificate" width="400"/>
+        <br><br>
+        <h3>HackerRank</h3>
+        <p>SQL (Intermediate)</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="45%" colspan="2">
+        <img src="brac_programming_contest_certificate.jpg" alt="BRAC Programming Contest Certificate" width="400"/>
+        <br><br>
+        <h3>BRAC University</h3>
+        <p>Programming Contest</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---

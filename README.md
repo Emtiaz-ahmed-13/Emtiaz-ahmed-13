@@ -313,6 +313,16 @@ System Design     ███████████████░░░░░ 7
 
 ---
 
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emtiaz-ahmed-13&theme=tokyonight" alt="GitHub Profile Summary" width="700"/>
+  <br><br>
+</div>
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">

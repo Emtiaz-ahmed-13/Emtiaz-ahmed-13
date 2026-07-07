@@ -25,33 +25,27 @@
   </a>
 </p>
 
+### 📬 Contact & Availability
+
+<div align="center">
+
+🟢 **Open to Work** | 🌍 **Time Zone:** GMT+6 (Dhaka, Bangladesh)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emtiaz-ahmed-2892871a2/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emtiaz2060@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emtiaz-ahmed-13)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/errorprogrammer11)
+
+**Preferred Contact:** 📧 Email | 💼 LinkedIn  
+**Response Time:** Usually within 24 hours
+
 </div>
 
-# Hi 👋, I'm Emtiaz Ahmed
-
-### Full Stack Developer | MERN & Next.js | TypeScript | Problem Solver
-
-I'm a Computer Science student and Full Stack Developer passionate about building scalable web applications, modern user experiences, and production-ready backend systems.
-
-I specialize in developing AI-powered platforms, SaaS products, marketplaces, and real-time applications using modern web technologies.
-
-🚀 Currently building production-grade full-stack applications with Next.js, Node.js, Express, NestJS, PostgreSQL, MongoDB, Prisma, Docker, and AWS.
-
 ---
 
-## 🌐 Connect With Me
+### 👨‍💻 About Me
 
-<p align="left">
-<a href="https://linkedin.com/in/emtiaz-ahmed-13"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:emtiaz2060@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Emtiaz-ahmed-13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://leetcode.com/u/emtiaz"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/></a>
-<a href="https://codeforces.com/profile/Prince_Emtiaz"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/></a>
-</p>
-
----
-
-# 👨‍💻 About Me
+<div align="left">
 
 I'm a **passionate Full Stack Developer** with expertise in building scalable, production-ready web applications using modern technologies. With a strong foundation in **competitive programming** and **problem-solving**, I bring algorithmic thinking to real-world software development challenges.
 
@@ -60,9 +54,9 @@ I'm a **passionate Full Stack Developer** with expertise in building scalable, p
 - 🎯 **2+ years** of hands-on experience in full-stack development
 - 🏗️ Built **5+ production-grade applications** serving real users
 - 🚀 Specialized in **Next.js, React, Node.js, TypeScript, and PostgreSQL**
-- 🤖 Integrated **AI/ML features** (Gemini AI, Groq AI) into web applications
-- 💳 Implemented **payment systems** (Stripe) and **real-time features** (Socket.IO)
-- 📊 Strong background in **Data Structures & Algorithms** (500+ DSA problems solved)
+- 🤖 Integrated **AI/ML features** (Gemini AI) into web applications
+- 💳 Implemented **payment systems** (Stripe) and **real-time features** (Socket.io)
+- 📊 Strong background in **Data Structures & Algorithms** (240+ day LeetCode streak)
 
 #### 🎓 What I Do
 
@@ -76,9 +70,11 @@ I'm a **passionate Full Stack Developer** with expertise in building scalable, p
 
 Seeking opportunities as a **Software Engineer** where I can leverage my full-stack expertise to build impactful products, contribute to innovative teams, and continue growing as a developer.
 
+</div>
+
 ---
 
-# 🎓 Education
+### 🎓 Education
 
 <div align="left">
 
@@ -94,7 +90,6 @@ Seeking opportunities as a **Software Engineer** where I can leverage my full-st
 📅 **2022 - Present** (Expected Graduation: 2026)
 
 **Relevant Coursework:**
-
 - Data Structures & Algorithms
 - Database Management Systems
 - Software Engineering
@@ -109,86 +104,28 @@ Seeking opportunities as a **Software Engineer** where I can leverage my full-st
 
 ---
 
-# 🛠 Tech Stack
+### 🛠️ Tech Stack & Skills
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c&theme=dark" alt="Languages" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&theme=dark" alt="Frontend" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,prisma,postgres,mongodb,mysql&theme=dark" alt="Backend" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,bash,linux&theme=dark" alt="Tools" />
 </p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux"/>
-</p>
-
-- shadcn/ui
-- Radix UI
-- React Hook Form
-- Zod
-- TanStack Query
-- Framer Motion
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
-</p>
-
-- REST API
-- JWT Authentication
-- Refresh Token
-- RBAC
-- Better Auth
-- NextAuth
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"/>
-</p>
-
-- Prisma ORM
-- Mongoose
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,nginx,github,git,postman"/>
-</p>
-
-- Docker Compose
-- GitHub Actions
-- Vercel
-- Render
-
-### Other Technologies
-
-- Stripe
-- Socket.IO
-- ImageKit
-- Google Gemini AI
-- Groq AI
-- Swagger
-- Vitest
-- Playwright
 
 <details>
 <summary><b>💡 Skills Proficiency</b></summary>
 <br>
 
 **Frontend Development**
-
 ```
-React.js          ██████████████░░░░░░ 70%
-Next.js           ██████████████░░░░░░ 70%
-TypeScript        ██████████████░░░░░░ 70%
-Tailwind CSS      ██████████░░░░░░░░░░ 50%
+React.js          ████████████████████ 95%
+Next.js           ███████████████████░ 90%
+TypeScript        ██████████████████░░ 85%
+Tailwind CSS      ████████████████████ 95%
 ```
 
 **Backend Development**
-
 ```
 Node.js           ███████████████████░ 90%
 Express.js        ███████████████████░ 90%
@@ -197,7 +134,6 @@ Prisma ORM        ██████████████████░░ 8
 ```
 
 **Tools & Technologies**
-
 ```
 Git & GitHub      ████████████████████ 95%
 Docker            ████████████░░░░░░░░ 60%
@@ -206,7 +142,6 @@ Socket.io         ██████████████████░░ 8
 ```
 
 **Problem Solving**
-
 ```
 Data Structures   ███████████████████░ 90%
 Algorithms        ██████████████████░░ 85%
@@ -217,108 +152,10 @@ System Design     ███████████████░░░░░ 7
 
 ---
 
-## 💡 Core Skills
-
-- Full Stack Development
-- Responsive UI Design
-- Authentication & Authorization
-- REST API Development
-- Database Design
-- Role-Based Access Control
-- Payment Integration
-- Real-time Applications
-- AI Integration
-- Docker Deployment
-- CI/CD
-- Performance Optimization
-
----
-
-# 📜 Certifications
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="45%">
-        <img src="programming_hero_certificate.jpg" alt="Programming Hero Certificate" width="400"/>
-        <br><br>
-        <h3>Programming Hero</h3>
-        <p>Complete Web Development (Level 1 & 2)</p>
-      </td>
-      <td align="center" width="45%">
-        <img src="hackerrank_sql_certificate.jpg" alt="HackerRank SQL Certificate" width="400"/>
-        <br><br>
-        <h3>HackerRank</h3>
-        <p>SQL (Intermediate)</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="45%" colspan="2">
-        <img src="brac_programming_contest_certificate.jpg" alt="BRAC Programming Contest Certificate" width="400"/>
-        <br><br>
-        <h3>BRAC University</h3>
-        <p>Programming Contest</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-# 🏆 Competitive Programming
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://leetcode.com/u/emtiaz">
-          <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
-        </a>
-        <br><br>
-        <h3>LeetCode</h3>
-        <p>✅ 701+ Problems Solved</p>
-        <p>Data Structures & Algorithms, SQL, Dynamic Programming, Graph, Trees, Greedy, Binary Search</p>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://codeforces.com/profile/Prince_Emtiaz">
-          <img src="cf.png" alt="Codeforces" width="200"/>
-        </a>
-        <br><br>
-        <h3>Codeforces</h3>
-        <p>Max Rating: **1380**</p>
-        <p>340+ Problems Solved</p>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://www.codechef.com/users/your_username">
-          <img src="cc.png" alt="CodeChef" width="200"/>
-        </a>
-        <br><br>
-        <h3>CodeChef</h3>
-        <p>⭐ 2 Star</p>
-        <p>150+ Problems Solved</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 💻 LeetCode Stats
-
-<div align="center">
-  <br>
-  <img src="https://leetcard.jacoblin.cool/emtiaz?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" width="500"/>
-  <br><br>
-</div>
-
----
-
 ### 🏆 GitHub Achievements
 
 <div align="center">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emtiaz-ahmed-13&theme=tokyonight" alt="GitHub Profile Summary" width="700"/>
-  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emtiaz-ahmed-13&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
 
 ---
@@ -326,254 +163,171 @@ System Design     ███████████████░░░░░ 7
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emtiaz-ahmed-13&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emtiaz-ahmed-13&layout=compact&theme=dark" alt="Top Languages"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emtiaz-ahmed-13&theme=dark" alt="GitHub Streak"/>
-  <br><br>
+
+#### Most Used Languages
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Emtiaz-ahmed-13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2094F3&text_color=FFFFFF" height="180" alt="languages graph" />
+
+<br><br>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Emtiaz-ahmed-13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2094F3&icon_color=2094F3&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Emtiaz-ahmed-13&theme=tokyonight&hide_border=true&background=0D1117&ring=2094F3&fire=2094F3&currStreakLabel=2094F3&date_format=j%20M%20Y" height="180" alt="streak stats" />
+
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emtiaz-ahmed-13&theme=github-dark" alt="Contribution Graph"/>
-  <br><br>
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emtiaz-ahmed-13&theme=github_dark" alt="GitHub Profile Summary" width="700"/>
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emtiaz-ahmed-13&theme=github_dark" alt="Repos per Language" width="400"/>
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emtiaz-ahmed-13&theme=github_dark" alt="Most Commit Language" width="400"/>
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emtiaz-ahmed-13&theme=github_dark" alt="Stats" width="400"/>
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Emtiaz-ahmed-13&theme=github_dark&utcOffset=6" alt="Productive Time" width="400"/>
-  <br><br>
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-<td width="50%">
-
-### 🚀 SkillSync
-
-Professional AI-powered Freelance Marketplace.
-
-**Highlights**
-
-- AI Project Brief Analyzer
-- Milestone Escrow Payments
-- Stripe Integration
-- GitHub OAuth
-- NextAuth Authentication
-- Real-time Messaging
-- Kanban Task Board
-- Admin Dashboard
-
-**Tech**
-
-Next.js • TypeScript • Node.js • Express • MongoDB • Stripe • Socket.IO • Groq AI
-
-**Links**
-
-🔗 [Live Demo](https://skillsync-client.vercel.app/)
-
-💻 [Client](https://github.com/Emtiaz-ahmed-13/skillsync/tree/main/skillsync_client)
-
-⚙️ [Server](https://github.com/Emtiaz-ahmed-13/skillsync)
-
-</td>
-
-<td width="50%">
-
-### 💼 CareerFlow
-
-AI-powered Job Application Tracker.
-
-**Highlights**
-
-- Resume Vault
-- ATS Resume Analyzer
-- AI Cover Letter Generator
-- AI Email Generator
-- Job Match Score
-- Kanban Pipeline
-- Daily Goal Tracker
-- Interview Preparation
-
-**Tech**
-
-Next.js • TypeScript • Tailwind CSS • React Query • Node.js • Express • MongoDB • Gemini AI
-
-**Links**
-
-🔗 [Live Demo](https://careerflow-client.vercel.app/)
-
-💻 [Client](https://github.com/Emtiaz-ahmed-13/careerflow_client)
-
-⚙️ [Server](https://github.com/Emtiaz-ahmed-13/careerflow_server)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🐱 PurrfectHub
-
-AI-powered Cat Adoption Platform.
-
-**Highlights**
-
-- Adoption Management
-- Shelter Dashboard
-- Stripe Donations
-- AI Pet Assistant
-- Medical Records
-- Real-time Chat
-- Notifications
-- Admin Dashboard
-
-**Tech**
-
-Next.js • TypeScript • Express • PostgreSQL • Prisma • Gemini AI • Socket.IO
-
-**Links**
-
-🔗 [Live Demo](https://purrfecthub-client.vercel.app/)
-
-💻 [Client](https://github.com/Emtiaz-ahmed-13/purrfecthub)
-
-⚙️ [Server](https://github.com/Emtiaz-ahmed-13/purrfecthub)
-
-</td>
-
-<td width="50%">
-
-### 🎉 EventMate
-
-Modern Event Management Platform.
-
-**Highlights**
-
-- Event Discovery
-- QR Ticketing
-- Waitlist Management
-- Stripe Payments
-- Event Analytics
-- Real-time Notifications
-- Reviews
-- Admin Dashboard
-
-**Tech**
-
-Next.js • TypeScript • PostgreSQL • Prisma • Stripe • Socket.IO
-
-**Links**
-
-🔗 [Live Demo]()
-
-💻 [Client](https://github.com/Emtiaz-ahmed-13/eventmate_client)
-
-⚙️ [Server](https://github.com/Emtiaz-ahmed-13/eventmate_server)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🔐 Nebula Chat
-
-Secure Self-Destructing Messaging Platform.
-
-**Highlights**
-
-- 🔐 End-to-End Encryption
-- ⏰ Self-Destructing Messages
-- 🚫 No Permanent Storage
-- 🌐 Real-time Communication
-- 🔒 Secure Rooms
-- 📱 Fully Responsive
-
-**Tech**
-
-Next.js • TypeScript • Tailwind CSS • Redis • Elysia.js
-
-**Links**
-
-🔗 [Live Demo](https://nebula-gamma-teal.vercel.app/)
-
-💻 [Client & Server](https://github.com/Emtiaz-ahmed-13/nebula)
-
-</td>
-
-<td width="50%">
-
-### 🍔 OrderEats
-
-Food Ordering & Delivery Platform.
-
-**Highlights**
-
-- 📱 Modern UI
-- 🚀 Real-time Order Tracking
-- 🛒 Cart Management
-- 📊 Order History
-
-**Tech**
-
-Next.js • React • Redux • Prisma
-
-**Links**
-
-💻 [Repository](https://github.com/Emtiaz-ahmed-13/ordereeats)
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## 💻 Currently Exploring
-
-- NestJS
-- Redis
-- Docker
-- AWS
-- CI/CD
-- System Design
-- Microservices
-
----
-
-<h3 align="center">
-
-⭐ If you like my work, consider giving my repositories a star.
-
-</h3>
+<br>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
-
+  <!-- Coding Platform Streaks -->
+  <img src="https://img.shields.io/badge/🏆_LEETCODE-240_DAYS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Streak" />
+  <img src="https://img.shields.io/badge/📊_CODEFORCES-0_DAYS-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Streak" />
+  <img src="https://img.shields.io/badge/😺_GITHUB-31_DAYS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak" />
 </p>
+
+<br>
+
+### 💻 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/emtiaz?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" />
+</div>
+
+<br>
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emtiaz-ahmed-13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2094F3&line=2094F3&point=FFFFFF" alt="Activity Graph" />
+</div>
+
+
+
+---
+
+### 🚀 Featured Projects
+
+<div align="left">
+
+#### 🐾 [PurrfectHub - Modern Cat Adoption Platform](https://github.com/Emtiaz-ahmed-13/purrfecthub)
+
+**Problem:** Traditional animal shelters struggle with inefficient adoption processes, lack of real-time communication, and limited reach to potential adopters.
+
+**Solution:** Built a comprehensive full-stack platform connecting homeless cats with loving families through modern technology.
+
+**Key Features:**
+- 🤖 **AI-Powered Assistant** - Gemini AI integration for 24/7 cat care advice
+- 💬 **Real-time Chat** - Socket.io for instant shelter-adopter communication
+- 💳 **Secure Donations** - Stripe payment integration for shelter support
+- 📸 **Image CDN** - ImageKit integration for optimized image delivery
+- 🏥 **Medical Records** - Complete vaccination and treatment tracking system
+- 📧 **Email Notifications** - Automated alerts via Nodemailer
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React_19-blue?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript) ![Express](https://img.shields.io/badge/Express-green?style=flat-square&logo=express) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS_4-38B2AC?style=flat-square&logo=tailwind-css)
+
+**Impact:** Streamlined adoption workflow for shelters and adopters with role-based dashboards, reducing adoption processing time.
+
+**Screenshots:**
+
+<details>
+<summary>Click to view screenshots</summary>
+
+![PurrfectHub Hero](purrfecthub_hero.png)
+*Hero section with modern UI and cat adoption call-to-action*
+
+![PurrfectHub Cats](purrfecthub_cats.png)
+*Featured cats available for adoption*
+
+</details>
+
+[🌐 Live Demo](https://purrfecthub-client.vercel.app/) • [📂 View Repository](https://github.com/Emtiaz-ahmed-13/purrfecthub) • [📖 Documentation](https://github.com/Emtiaz-ahmed-13/purrfecthub#readme)
+
+---
+
+#### 🤝 [SkillSync - Professional Collaboration Platform](https://github.com/Emtiaz-ahmed-13/skillsync)
+
+**Problem:** Freelancers and clients need a unified platform for project management, communication, and secure payments.
+
+**Solution:** Developed a comprehensive collaboration platform connecting freelancers with clients for seamless project execution.
+
+**Key Features:**
+- 📊 **Project Management** - Kanban-style task boards with milestone tracking
+- 💰 **Payment Integration** - Stripe-powered secure milestone-based payments
+- 📁 **File Management** - ImageKit integration for project file uploads
+- 🔔 **Real-time Notifications** - Event-based notification system
+- ⏱️ **Time Tracking** - Built-in time tracking for freelancers
+- ⭐ **Review System** - Client-freelancer rating and review platform
+- 🔐 **Multi-Auth** - Email, Google, and GitHub OAuth integration
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS_4-38B2AC?style=flat-square&logo=tailwind-css) ![NextAuth](https://img.shields.io/badge/NextAuth.js-purple?style=flat-square) ![Radix](https://img.shields.io/badge/Radix_UI-black?style=flat-square)
+
+**Impact:** Enables efficient project collaboration with role-based dashboards for clients, freelancers, and admins.
+
+**Screenshots:**
+
+<details>
+<summary>Click to view screenshot</summary>
+
+![SkillSync Hero](skillsync_hero.png)
+*Professional collaboration platform connecting freelancers with clients*
+
+</details>
+
+[🌐 Live Demo](https://skillsync-client.vercel.app/) • [📂 View Repository](https://github.com/Emtiaz-ahmed-13/skillsync) • [📖 Documentation](https://github.com/Emtiaz-ahmed-13/skillsync/tree/main/skillsync_client#readme)
+
+---
+
+#### 🔐 [Nebula Chat - Secure Self-Destructing Messaging](https://github.com/Emtiaz-ahmed-13/nebula)
+
+**Problem:** Users need a privacy-focused platform for confidential conversations without permanent data storage.
+
+**Solution:** Created a secure messaging platform with end-to-end encryption and automatic message destruction.
+
+**Key Features:**
+- 🔐 **End-to-End Encryption** - All messages encrypted for maximum privacy
+- ⏰ **Self-Destructing Messages** - Auto-delete after configurable duration (5min - 1hr)
+- 🚫 **No Permanent Storage** - Messages never stored permanently on servers
+- 🌐 **Real-time Communication** - WebSocket-powered instant messaging
+- 🔒 **Secure Rooms** - Private chat rooms with unique IDs
+- 📱 **Fully Responsive** - Seamless experience across all devices
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css) ![Redis](https://img.shields.io/badge/Upstash_Redis-red?style=flat-square&logo=redis) ![Elysia](https://img.shields.io/badge/Elysia.js-purple?style=flat-square)
+
+**Impact:** Provides privacy-conscious users with secure, ephemeral communication channels.
+
+**Screenshots:**
+
+<details>
+<summary>Click to view screenshot</summary>
+
+![Nebula Chat](nebula_hero.png)
+*Secure, private, self-destructing chat rooms with end-to-end encryption*
+
+</details>
+
+[🌐 Live Demo](https://nebula-gamma-teal.vercel.app/) • [📂 View Repository](https://github.com/Emtiaz-ahmed-13/nebula) • [📖 Documentation](https://github.com/Emtiaz-ahmed-13/nebula#readme)
+
+---
+
+#### 🍔 [OrderEats - Food Ordering & Delivery Platform](https://github.com/Emtiaz-ahmed-13/ordereeats)
+
+**Problem:** Restaurants need a modern online ordering system with real-time tracking.
+
+**Solution:** Built a seamless food ordering application with real-time order tracking.
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
+
+[📂 View Repository](https://github.com/Emtiaz-ahmed-13/ordereeats)
+
+</div>
+
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+</div>

@@ -76,14 +76,6 @@ I'm a **passionate Full Stack Developer** with expertise in building scalable, p
 
 Seeking opportunities as a **Software Engineer** where I can leverage my full-stack expertise to build impactful products, contribute to innovative teams, and continue growing as a developer.
 
-- 🎓 B.Sc. in Computer Science at BRAC University
-- 💻 Full Stack Web Developer
-- 🚀 Passionate about scalable backend systems and modern frontend architecture
-- 🤖 Interested in AI-powered applications and SaaS products
-- 🌱 Currently learning **NestJS, Redis, Docker, AWS, CI/CD, and System Design**
-- 📚 Solved **500+ DSA problems** across LeetCode, Codeforces & CodeChef
-- 🎯 Goal: Software Engineer / Full Stack Developer
-
 ---
 
 # 🎓 Education
@@ -242,27 +234,21 @@ System Design     ███████████████░░░░░ 7
 
 ---
 
-# 🎓 Education
-
-### BRAC University
-
-**B.Sc. in Computer Science & Engineering**
-
-2022 — Present
-
----
-
 # 📜 Certifications
 
-🏆 Programming Hero — Complete Web Development Level 1 & Level 2
-
-🏆 HackerRank — SQL (Intermediate)
+<div align="center">
+  <img src="programming_hero_certificate.jpg" alt="Programming Hero Certificate" width="400"/>
+  <br><br>
+  <img src="hackerrank_sql_certificate.jpg" alt="HackerRank SQL Certificate" width="400"/>
+  <br><br>
+  <img src="brac_programming_contest_certificate.jpg" alt="BRAC Programming Contest Certificate" width="400"/>
+</div>
 
 ---
 
 # 🏆 Competitive Programming
 
-### LeetCode
+### [LeetCode](https://leetcode.com/u/emtiaz)
 
 - ✅ 701+ Problems Solved
 - Data Structures & Algorithms
@@ -285,32 +271,22 @@ System Design     ███████████████░░░░░ 7
 
 ---
 
-# 📜 Certifications
-
-<div align="center">
-  <img src="programming_hero_certificate.jpg" alt="Programming Hero Certificate" width="400"/>
-  <br><br>
-  <img src="hackerrank_sql_certificate.jpg" alt="HackerRank SQL Certificate" width="400"/>
-  <br><br>
-  <img src="brac_programming_contest_certificate.jpg" alt="BRAC Programming Contest Certificate" width="400"/>
-</div>
-
----
-
 ## 💻 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/emtiaz?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" />
+  <br>
+  <img src="https://leetcard.jacoblin.cool/emtiaz?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" width="500"/>
+  <br><br>
 </div>
-
-<br>
 
 ---
 
 ### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emtiaz-ahmed-13&theme=tokyonight" alt="GitHub Profile Summary" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emtiaz-ahmed-13&theme=tokyonight" alt="GitHub Profile Summary" width="700"/>
+  <br><br>
 </div>
 
 ---
@@ -318,26 +294,30 @@ System Design     ███████████████░░░░░ 7
 ### 📊 GitHub Analytics
 
 <div align="center">
-
+  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emtiaz-ahmed-13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=2094F3&icon_color=2094F3&text_color=FFFFFF" alt="GitHub Stats"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emtiaz-ahmed-13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=2094F3&text_color=FFFFFF" alt="Top Languages"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emtiaz-ahmed-13&theme=tokyonight&hide_border=true&background=0D1117&ring=2094F3&fire=2094F3&currStreakLabel=2094F3&date_format=j%20M%20Y" alt="GitHub Streak"/>
+  <br><br>
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Emtiaz-ahmed-13&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
 
 ## 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emtiaz-ahmed-13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2094F3&line=2094F3&point=FFFFFF" alt="Contribution Graph"/>
+  <br><br>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emtiaz-ahmed-13&theme=tokyo-night&hide_border=true"/>
+## 🏆 GitHub Trophies
 
-</p>
+<div align="center">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Emtiaz-ahmed-13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=7" alt="GitHub Trophies"/>
+  <br><br>
+</div>
 
 ---
 
@@ -400,7 +380,7 @@ Next.js • TypeScript • Tailwind CSS • React Query • Node.js • Express 
 
 **Links**
 
-🔗[ Live Demo](https://careerflow-client.vercel.app/)
+🔗 [Live Demo](https://careerflow-client.vercel.app/)
 
 💻 [Client](https://github.com/Emtiaz-ahmed-13/careerflow_client)
 

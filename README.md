@@ -198,19 +198,6 @@ System Design     ███████████████░░░░░ 7
 
 <div align="center">
 
-#### Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emtiaz-ahmed-13&layout=compact" height="180" alt="languages graph" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-ahmed-13&show_icons=true" height="180" alt="stats graph" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Emtiaz-ahmed-13" height="180" alt="streak stats" />
-
-</div>
-
-<br>
-
 <p align="center">
   <!-- Coding Platform Streaks -->
   <img src="https://img.shields.io/badge/🏆_LEETCODE-240_DAYS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Streak" />

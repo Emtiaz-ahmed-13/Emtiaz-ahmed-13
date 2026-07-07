@@ -169,7 +169,7 @@ I specialize in developing AI-powered platforms, SaaS products, marketplaces, an
 
 ### LeetCode
 
-- ✅ 500+ Problems Solved
+- ✅ 701+ Problems Solved
 - Data Structures & Algorithms
 - SQL
 - Dynamic Programming
@@ -293,11 +293,11 @@ Next.js • TypeScript • Tailwind CSS • React Query • Node.js • Express 
 
 **Links**
 
-🔗 Live Demo
+🔗[ Live Demo](https://careerflow-client.vercel.app/)
 
-💻 Client
+💻 [Client](https://github.com/Emtiaz-ahmed-13/careerflow_client)
 
-⚙️ Server
+⚙️ [Server](https://github.com/Emtiaz-ahmed-13/careerflow_server)
 
 </td>
 
@@ -359,11 +359,11 @@ Next.js • TypeScript • PostgreSQL • Prisma • Stripe • Socket.IO
 
 **Links**
 
-🔗 Live Demo
+🔗 [Live Demo]()
 
-💻 Client
+💻 [Clien]t(https://github.com/Emtiaz-ahmed-13/eventmate_client)
 
-⚙️ Server
+⚙️ [Server](https://github.com/Emtiaz-ahmed-13/eventmate_server)
 
 </td>
 

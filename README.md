@@ -400,16 +400,28 @@ _Secure, private, self-destructing chat rooms with end-to-end encryption_
 
 ---
 
-#### 🍔 [OrderEats - Food Ordering & Delivery Platform](https://github.com/Emtiaz-ahmed-13/ordereeats)
+#### 🎉 [EventMate - Event Discovery & Hosting Platform](https://github.com/Emtiaz-ahmed-13/eventmate_client)
 
-**Problem:** Restaurants need a modern online ordering system with real-time tracking.
+**Problem:** Discovering local events, selling tickets, and managing participants typically requires multiple disconnected tools with no unified experience for hosts and attendees.
 
-**Solution:** Built a seamless food ordering application with real-time order tracking.
+**Solution:** Built a full-stack event platform where hosts create experiences (concerts, movie screenings, DSA study sessions), sell tickets via Stripe, invite friends, and manage participants — all in one place.
+
+**Key Features:**
+
+- 🎫 **Complete Ticketing System** - QR ticket generation, PDF download, email delivery & QR check-in scanner
+- 💳 **Stripe Payments** - Secure paid events with promo codes (percent/fixed) and 100%-discount free joins
+- ⚡ **Real-time Features** - Socket.IO notifications, per-event chat & public Q&A discussions
+- 🧭 **Smart Discovery** - Search with category/location/date filters, trending events using sliding window + max-heap algorithm
+- 👥 **Participant Management** - Approve/reject, waitlist, check-in tracking & host review system
+- 🔐 **Role-based Access** - USER/HOST/ADMIN roles with JWT refresh tokens & passwordless email OTP login
+- 🛡️ **Admin Dashboard** - User/host moderation ("event shield"), verification workflow, analytics & system logs
 
 **Tech Stack:**  
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
+![Next.js](https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React_19-blue?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript) ![Express](https://img.shields.io/badge/Express-green?style=flat-square&logo=express) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe) ![Socket.io](https://img.shields.io/badge/Socket.io-white?style=flat-square&logo=socket.io) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS_4-38B2AC?style=flat-square&logo=tailwind-css)
 
-[📂 View Repository](https://github.com/Emtiaz-ahmed-13/ordereeats)
+**Impact:** End-to-end event management for hosts and attendees with automated ticketing, payments, real-time engagement, and platform safety tools.
+
+[🌐 Live Demo](https://eventmate-client-2.onrender.com/) • [📂 Client Repository](https://github.com/Emtiaz-ahmed-13/eventmate_client) • [⚙️ Server Repository](https://github.com/Emtiaz-ahmed-13/eventmate_server)
 
 </div>
 

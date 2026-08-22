@@ -56,7 +56,7 @@ I'm a **passionate Full Stack Developer** with expertise in building scalable, p
 - 🚀 Specialized in **Next.js, React, Node.js, TypeScript, and PostgreSQL**
 - 🤖 Integrated **AI/ML features** (Gemini AI) into web applications
 - 💳 Implemented **payment systems** (Stripe) and **real-time features** (Socket.io)
-- 📊 Strong background in **Data Structures & Algorithms** (240+ day LeetCode streak)
+- 📊 Strong background in **Data Structures & Algorithms** (66-day LeetCode streak)
 
 #### 🎓 What I Do
 
@@ -200,9 +200,9 @@ System Design     ███████████████░░░░░ 7
 
 <p align="center">
   <!-- Coding Platform Streaks -->
-  <img src="https://img.shields.io/badge/🏆_LEETCODE-240_DAYS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Streak" />
+  <img src="https://img.shields.io/badge/🏆_LEETCODE-66_DAYS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Streak" />
   <img src="https://img.shields.io/badge/📊_CODEFORCES-0_DAYS-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Streak" />
-  <img src="https://img.shields.io/badge/😺_GITHUB-31_DAYS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/😺_GITHUB-234_DAYS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak" />
 </p>
 
 <br>
@@ -226,7 +226,7 @@ System Design     ███████████████░░░░░ 7
         </a>
         <br><br>
         <h3>LeetCode</h3>
-        <p>✅ 701+ Problems Solved</p>
+        <p>✅ 730+ Problems Solved</p>
         <p>Data Structures & Algorithms, SQL</p>
       </td>
       <td align="center" width="33%">

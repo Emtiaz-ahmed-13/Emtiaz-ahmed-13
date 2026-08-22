@@ -208,7 +208,7 @@ System Design     ███████████████░░░░░ 7
 
 #### ⚡ GitHub Streak Stats
 
-<img src="https://streak-stats.demolish.dev/?user=Emtiaz-ahmed-13&locale=en&mode=daily&theme=github-dark-blue&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats-card.vercel.app/?user=Emtiaz-ahmed-13&locale=en&mode=daily&theme=github-dark-blue&hide_border=true&border_radius=12" alt="GitHub Streak Stats" />
 
 <br><br>
 
@@ -225,14 +225,12 @@ System Design     ███████████████░░░░░ 7
   </tr>
 </table>
 
-<details>
-<summary><b>📈 More Contribution Insights</b></summary>
 <br>
+
+#### 🔠 Top Languages
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emtiaz-ahmed-13&theme=github_dark" alt="Repos per Language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emtiaz-ahmed-13&theme=github_dark" alt="Most Commit Language" />
-
-</details>
 
 </div>
 

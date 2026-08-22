@@ -32,7 +32,7 @@
 🟢 **Open to Work** | 🌍 **Time Zone:** GMT+6 (Dhaka, Bangladesh)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emtiaz-ahmed-2892871a2/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emtiaz2060@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emtiaz29369@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emtiaz-ahmed-13)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/errorprogrammer11)
 
@@ -268,7 +268,7 @@ System Design     ███████████████░░░░░ 7
         <p>340+ Problems Solved</p>
       </td>
       <td align="center" width="33%">
-        <a href="https://www.codechef.com/users/your_username">
+        <a href="https://www.codechef.com/users/prince_emtiaz">
           <img src="cc.png" alt="CodeChef" width="200"/>
         </a>
         <br><br>

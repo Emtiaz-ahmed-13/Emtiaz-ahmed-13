@@ -194,18 +194,49 @@ System Design     ███████████████░░░░░ 7
 
 ---
 
-### 📊 GitHub Analytics
+### 🔥 Streaks & Consistency
 
 <div align="center">
 
-<p align="center">
-  <!-- Coding Platform Streaks -->
-  <img src="https://img.shields.io/badge/🏆_LEETCODE-66_DAYS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Streak" />
-  <img src="https://img.shields.io/badge/📊_CODEFORCES-0_DAYS-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Streak" />
-  <img src="https://img.shields.io/badge/😺_GITHUB-234_DAYS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak" />
+<p>
+  <img src="https://img.shields.io/badge/🔥_GITHUB-STREAK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/🏆_LEETCODE-STREAK-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Streak" />
+  <img src="https://img.shields.io/badge/📊_CODEFORCES-STREAK-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Streak" />
 </p>
 
 <br>
+
+#### ⚡ GitHub Streak Stats
+
+<img src="https://streak-stats.demolish.dev/?user=Emtiaz-ahmed-13&locale=en&mode=daily&theme=github-dark-blue&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak Stats" />
+
+<br><br>
+
+#### 📅 Contributions & Longest Streaks
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emtiaz-ahmed-13&theme=github_dark" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Emtiaz-ahmed-13&theme=github_dark" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>📈 More Contribution Insights</b></summary>
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emtiaz-ahmed-13&theme=github_dark" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emtiaz-ahmed-13&theme=github_dark" alt="Most Commit Language" />
+
+</details>
+
+</div>
+
+---
 
 ### 💻 LeetCode Stats
 
